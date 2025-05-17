@@ -1,0 +1,1662 @@
+{
+    "show": "Taarak Mehta Ka Ooltah Chashmah",
+    "arcs":
+    [
+        {
+            "start_episode": 1,
+            "end_episode": 1,
+            "arc_title": "Introduction",
+            "arc_description": "The narrator of the show Taarak Mehta (Shailesh Lodha) introduces the characters."
+        },
+        {
+            "start_episode": 2,
+            "end_episode": 5,
+            "arc_title": "Mischievous Tapu",
+            "arc_description": "As Tapu is creating problems, it becomes a trouble for society members and Jethalal."
+        },
+        {
+            "start_episode": 6,
+            "end_episode": 7,
+            "arc_title": "Champaklal's Arrival",
+            "arc_description": "Fed up with little Tapu's mischief, Jethalal is suggested by Taarak to invite his father Champaklal to teach Tapu good manners."
+        },
+        {
+            "start_episode": 8,
+            "end_episode": 9,
+            "arc_title": "Heavy Rains",
+            "arc_description": "Tapu Sena and Mehta get stuck in the heavy rains of Mumbai, making society members tense. In the end, they return safely."
+        },
+        {
+            "start_episode": 10,
+            "end_episode": 11,
+            "arc_title": "Champaklal's Phone",
+            "arc_description": "Struggling to adjust to the city, Champaklal gets new phone for day-to-day communication, but this puts society members in trouble. Eventually, he himself returns the mobile."
+        },
+        {
+            "start_episode": 12,
+            "end_episode": 13,
+            "arc_title": "Samuhik Rakshabandhan",
+            "arc_description": "Bhide is worried about Tapu and Sonu's closeness and convinces members of Gokuladham society to celebrate 'Samuhik Rakshabandhan'. However, Jethalal doesn't want Babita to tie him Rakhi, so he revolts and fails. In the end neither Tapu, nor Jethalal tie Rakhis much to Iyer and Bhide's chagrin."
+        },
+        {
+            "start_episode": 14,
+            "end_episode": 15,
+            "arc_title": "Jethalal Kidnapped",
+            "arc_description": "Jethalal gets kidnapped from his shop by a bunch of thugs who seek ransom in place of returning him. Later, with the help of Tapu, Abdul and Mehta, the Gada family rescues him from kidnappers."
+        },
+        {
+            "start_episode": 16,
+            "end_episode": 17,
+            "arc_title": "Janamashtami (2008)",
+            "arc_description": "Jethalal and his friends plan to gamble, while on eve of Janamashtami the men challenge the women to break Dahi Handi."
+        },
+        {
+            "start_episode": 18,
+            "end_episode": 18,
+            "arc_title": "Champaklal as Tapu's Father",
+            "arc_description": "Tapu convinces Champaklal to meet his principal as his father after he lands into trouble at school. Things take a different turn when Jethalal arrives at the school too."
+        },
+        {
+            "start_episode": 19,
+            "end_episode": 20,
+            "arc_title": "Chingur Baba's help",
+            "arc_description": "Fed up with his father and son, Jethalal approaches Chingur Baba for help which eventually causes him more trouble."
+        },
+        {
+            "start_episode": 21,
+            "end_episode": 22,
+            "arc_title": "Kevra Teej",
+            "arc_description": "Women of Gokuldham Society want their husbands to fast for them on the festival of Teej. Despite their early determination, the hungry men decide meet at a restaurant, but are applauded by their wives when they decide not to eat."
+        },
+        {
+            "start_episode": 23,
+            "end_episode": 27,
+            "arc_title": "Ganesh Utsav (2008)",
+            "arc_description": "Besides lots of troubles and chaos, members of Gokuldham society celebrate the festival of Ganesh Chaturthi."
+        },
+        {
+            "start_episode": 28,
+            "end_episode": 29,
+            "arc_title": "Hasya Kavi Sammelan",
+            "arc_description": "A Hasya Kavi Sammelan is organized on the occasion of Ganesh Utsav."
+        },
+        {
+            "start_episode": 30,
+            "end_episode": 34,
+            "arc_title": "Helpless Husbands",
+            "arc_description": "All men of the society are upset with their wives. They meet Gobachari (Taarak's friend) who brainwashes them against their wives."
+        },
+        {
+            "start_episode": 35,
+            "end_episode": 38,
+            "arc_title": "Tapu Sena & Television",
+            "arc_description": "Parents are worried as Tapu Sena is watching TV all day."
+        },
+        {
+            "start_episode": 39,
+            "end_episode": 44,
+            "arc_title": "Navratri (2008)",
+            "arc_description": "Society members celebrate the auspicious festival of Navratri."
+        },
+        {
+            "start_episode": 45,
+            "end_episode": 49,
+            "arc_title": "Kidney for Shaikh",
+            "arc_description": "A Dubai Shaikh offers extravagant money to Jethalal for a kidney, but the latter falls in great trouble when he is unable to find a donor."
+        },
+        {
+            "start_episode": 50,
+            "end_episode": 54,
+            "arc_title": "Diwali (2008)",
+            "arc_description": "Bhide urgently needs money for Diwali expenses. Gokuldham celebrates the festival of Diwali."
+        },
+        {
+            "start_episode": 55,
+            "end_episode": 61,
+            "arc_title": "Sundar's Scheme",
+            "arc_description": "Daya's brother Sundar brings scheme for Gokuldham members and promises to double their money but promptly disappears. Jethalal is then forced to repay the money but fortunately, Sundar arrives with money at the right time."
+        },
+        {
+            "start_episode": 62,
+            "end_episode": 63,
+            "arc_title": "Havan to end TV strike",
+            "arc_description": "Women are angry as the same episodes are telecasting due to strike. Daya and her friends conduct a 'havan' to resolve this problem."
+        },
+        {
+            "start_episode": 64,
+            "end_episode": 65,
+            "arc_title": "Tapu sena strike in school",
+            "arc_description": "Inspired by the strike of the television workers, Tapu Sena decides to strike against their school, making their principal tensed. However, Champaklal convinces the kids to end the strike."
+        },
+        {
+            "start_episode": 66,
+            "end_episode": 69,
+            "arc_title": "Jethalal's affair with Sweety",
+            "arc_description": "A woman named Sweety (portrayed by Surbhi Chandna) comes and makes everyone believe that Jethalal has an affair with her. Later, it is revealed that she was an old employee of Jethalal and came to get ransom by threatening Jethalal."
+        },
+        {
+            "start_episode": 70,
+            "end_episode": 83,
+            "arc_title": "Tapu's Wedding",
+            "arc_description": "Champaklal wants to have Tapu get married during his childhood as he was, but society members and Jethalal oppose this. Amidst some misunderstandings, Champaklal finally finds a girl for Tapu, but she is older than him. Jethalal also had a dream of Tapu getting married. After explaining to Champaklal about the disadvantages of child marriage, he understands and drops the idea of Tapu's marriage."
+        },
+        {
+            "start_episode": 84,
+            "end_episode": 86,
+            "arc_title": "Drunk Sodhi on Terrace",
+            "arc_description": "Getting warned by Roshan, Sodhi comes to the house again getting drunk, so Roshan refuses to let him enter the house. As a result, Sodhi stands at the edge of the building roof until she forgives him. Later, Sodhi's relatives come into the society and Roshan agrees."
+        },
+        {
+            "start_episode": 87,
+            "end_episode": 87,
+            "arc_title": "Lohri Eve",
+            "arc_description": "Golkuldham society celebrates the festival of Lohri with Sodhi's relatives who came from Punjab."
+        },
+        {
+            "start_episode": 88,
+            "end_episode": 89,
+            "arc_title": "Makar Sankranti",
+            "arc_description": "On the occasion of Makar Sankranti, there is a kite competition between Jethalal and Sodhi with a condition that whoever loses will sit on a donkey. Later, both of their kites get lost, and the competition ends in a tie."
+        },
+        {
+            "start_episode": 90,
+            "end_episode": 91,
+            "arc_title": "Dr. Hathi stuck in Rickshaw",
+            "arc_description": "Dr. Hathi arrives in the society, but he gets stuck and struggles to get out of a rickshaw. The members of Golkuldham form a human chain to pull him out."
+        },
+        {
+            "start_episode": 92,
+            "end_episode": 93,
+            "arc_title": "Republic Day plans",
+            "arc_description": "All society members initially have separate plans for Republic Day holiday, but eventually, all decide to celebrate Republic Day together."
+        },
+        {
+            "start_episode": 94,
+            "end_episode": 95,
+            "arc_title": "Cultural Dance Program",
+            "arc_description": "To celebrate the dignity of India, a Cultural Dance program was organized, where all society members perform traditional dances. Daya and Jethalal are declared winners of the program, which sparks a conflict between the members based on state and regions."
+        },
+        {
+            "start_episode": 96,
+            "end_episode": 100,
+            "arc_title": "Jethalal Fitness",
+            "arc_description": "Seeing Jethalal getting fat, Babita advises him to do a proper diet and exercise along with other society members and herself in the early morning. During exercise, he thinks Babita's mobile has been stolen so he chases after the thief, as a result, he gets tired the very first day and quits."
+        },
+        {
+            "start_episode": 100,
+            "end_episode": 106,
+            "arc_title": "Donations leads to Jail",
+            "arc_description": "After a movie night, Champaklal feels pity seeing poor people and donates blankets to them, but later comes to know that they sold it for money, resulting in him getting arrested. Later, the thief is caught, and Champaklal is released."
+        },
+        {
+            "start_episode": 107,
+            "end_episode": 114,
+            "arc_title": "Lovely Housemaid",
+            "arc_description": "Society women were upset as their beloved maid Rukmini leaves the society. All members become tense about household chores. Consequently, a new maid named Lovely comes and tries to theft and divide the women in society. Eventually, Lovely is exposed, and Rukmini comes back to society."
+        },
+        {
+            "start_episode": 115,
+            "end_episode": 117,
+            "arc_title": "Bhide swallows a whistle",
+            "arc_description": "Abdul is selling free whistle with toothpaste in a scheme. Bhide accidentally swallows a whistle, making him unable to speak. All members fail to get the whistle out to Bhide's stomach. Later, Daya uniquely solves the problem."
+        },
+        {
+            "start_episode": 118,
+            "end_episode": 122,
+            "arc_title": "Holi with Duplicate Shahrukh and Sachin",
+            "arc_description": "Bhide decides that society will not celebrate Holi due to funding issues. Consequently, Sundar comes with a promise to bring Sachin Tendulkar and Shahrukh Khan to celebrate Holi. Later, they are revealed to be duplicates."
+        },
+        {
+            "start_episode": 122,
+            "end_episode": 125,
+            "arc_title": "Chaggan, Maggan and 25000 rupee",
+            "arc_description": "Sundar tells Jethalal to give 20000 rupees and 5000 rupees to his friends Chaggan and Maggan respectively who are in Mumbai. This leads to a lot of confusion and chaos."
+        },
+        {
+            "start_episode": 125,
+            "end_episode": 125,
+            "arc_title": "Vinay Pathak in Society",
+            "arc_description": "Vinay Pathak made special appearance as Taarak's friend to promote his film Straight-Ek Tedhi Medhi Love Story."
+        },
+        {
+            "start_episode": 126,
+            "end_episode": 129,
+            "arc_title": "Tapu Sena exams scam",
+            "arc_description": "The lives of the society members revolve around their children's exams. Starting with Tapu's refusal to write his exam, the story goes around the cheating efforts of Tapu in his exams with the help of Abdul. Bhide comes to know that Tapu is going to buy a question paper from Peon Pappu, but the plan fails as the police inspector arrives and reveals that Tapu complained about Pappu and his scam."
+        },
+        {
+            "start_episode": 130,
+            "end_episode": 132,
+            "arc_title": "Iyer and Babita fight",
+            "arc_description": "The society members are shocked as Iyer and Babita suddenly start fighting. Using this as an advantage, Jethalal eagerly tries to divorce them. Later, it is revealed that it was an April Fool prank by Iyer and Babita which consequently ends with a prank by society members on them."
+        },
+        {
+            "start_episode": 133,
+            "end_episode": 134,
+            "arc_title": "Mahavir Jayanti",
+            "arc_description": "Gada family organize Mahavir Jayanti function in the society."
+        },
+        {
+            "start_episode": 135,
+            "end_episode": 138,
+            "arc_title": "Dental Camp in Gokuldham & Jethalal Toothache",
+            "arc_description": "A dental camp is held by Dr. Hathi and Dr. Kukutiya. The doctors praise Jethalal for having strong teeth. Later after the camp, Jethalal gets pain in his teeth due to Tapu, and is scared to go to a dentist. In pressure from all, he agrees to go to the dentist with Taarak. Later, a hooligan enters the clinic and gives a tight slap to Jethalal which breaks his tooth and ends his toothache."
+        },
+        {
+            "start_episode": 139,
+            "end_episode": 142,
+            "arc_title": "Meenakshi Detergent",
+            "arc_description": "While buying detergent Taarak mistakenly criticizes Meenakshi detergent which was forcefully sold to him by the shopkeeper. Later, Jaggu, Meenakshi's husband comes to the society to beat Mehta. Finally, he and Jethalal became successful to convince Jaggu."
+        },
+        {
+            "start_episode": 143,
+            "end_episode": 147,
+            "arc_title": "Tiku Ji ki Wadi Trip",
+            "arc_description": "Kids of Gokuldham wanted to go for a picnic in their vacation but their fathers were busy with their work. So, the kids' mothers along with Champaklal take them to Tiku Ji ki Wadi for a picnic. Later, when Gogi goes missing, the members find him sleeping in the park."
+        },
+        {
+            "start_episode": 148,
+            "end_episode": 152,
+            "arc_title": "Daya and Madhavi Fight in Kitty Party",
+            "arc_description": "Women decide to organize their first kitty party. Bhide doesn't agree on this as it is against their cultural morals but eventually, Madhavi convinces him. In a game to act their husbands, Daya and Madhavi argued. In the end, Tapu and Sonu solve their fight and the ladies agree to plan their next kitty party."
+        },
+        {
+            "start_episode": 153,
+            "end_episode": 163,
+            "arc_title": "Thieves",
+            "arc_description": "A group of thieves steal a gold necklace from Anjali, and then loot Mohanlal's flat. They then try to rob Jethalal masquerading as mechanics, but they are caught by Tapu Sena who hands them over to the police."
+        },
+        {
+            "start_episode": 164,
+            "end_episode": 164,
+            "arc_title": "Tobacco Free Mumbai",
+            "arc_description": "Tapu Sena and Mahila Mandal (Society women) spread awareness to help prevent people from eating tobacco."
+        },
+        {
+            "start_episode": 165,
+            "end_episode": 168,
+            "arc_title": "Patrakar Popatlal",
+            "arc_description": "A newspaper journalist, Popatlal Pandey is transferred back to Mumbai."
+        },
+        {
+            "start_episode": 169,
+            "end_episode": 173,
+            "arc_title": "Daya's Maun Vrat",
+            "arc_description": "After a deal with a Chinese client goes away due to Daya's interference, Jethalal says that Daya shouldn't talk to anyone. She takes his statement literally, making Jethalal depressed. Eventually, Daya breaks her silence."
+        },
+        {
+            "start_episode": 174,
+            "end_episode": 184,
+            "arc_title": "GPL 1",
+            "arc_description": "The society members play a friendly cricket tournament dividing into two teams, Jabardast Jetha and Bindaas Bhide led by Jethalal and Bhide, respectively. The match result doesn't come out due to not receiving any permits from police for a night tournament and ends with a tie."
+        },
+        {
+            "start_episode": 185,
+            "end_episode": 187,
+            "arc_title": "Jethalal Gets Annoyed by a Kid",
+            "arc_description": "Jethalal wants to sleep all day long because of the fatigue of GPL 1. However, Daya's friend leaves her son at Jethalal's house and goes shopping with Daya, and her son annoys Jethalal all day."
+        },
+        {
+            "start_episode": 188,
+            "end_episode": 188,
+            "arc_title": "Dr Hathi in tempo",
+            "arc_description": "Dr Hathi arrives in the society after a break. However, he is stuck in a tempo while eating bananas, so the society eventually manage to get him out after many difficulties."
+        },
+        {
+            "start_episode": 189,
+            "end_episode": 195,
+            "arc_title": "Babita's birthday",
+            "arc_description": "Iyer arranges a surprise birthday party for Babita and plans to not invite Jethalal. Eventually Jethalal gets invited after Babita figures he has not been invited."
+        },
+        {
+            "start_episode": 196,
+            "end_episode": 199,
+            "arc_title": "Divaso and Jagaran",
+            "arc_description": "The women of the society decide to stay awake at night along with their husbands. The husbands don't agree. But Taarak convinces everyone to do jagaran and everyone plays a game of Antakshari."
+        },
+        {
+            "start_episode": 200,
+            "end_episode": 201,
+            "arc_title": "Gokuldham Anniversary Celebration",
+            "arc_description": "Gokuldham celebrates the anniversary of their Society with Raju Srivastava."
+        },
+        {
+            "start_episode": 203,
+            "end_episode": 209,
+            "arc_title": "Jethalal London Trip",
+            "arc_description": "Jethalal goes to London for a business trip. Comedy ensues when Jethalal finds out that only him and not his entire family is being taken to London"
+        },
+        {
+            "start_episode": 210,
+            "end_episode": 211,
+            "arc_title": "Janmashtamani (2009)",
+            "arc_description": "Gokuldham's Dahi Handi event. Tapu sena announces a 1 lakh prize for the succesful team. Sundar helps getting the sponsorship from Rita and Kal Tak."
+        },
+        {
+            "start_episode": 213,
+            "end_episode": 214,
+            "arc_title": "Parushan and Pateti",
+            "arc_description": "Gada's celebrate Parushan and the Sodhi's celebrate Patati"
+        },
+        {
+            "start_episode": 215,
+            "end_episode": 223,
+            "arc_title": "Ganesh Utsav (2009)",
+            "arc_description": "Gokuldham society celebrates the festival of Ganesh Chaturthi and there's a competetion for women to dress up in cultural dresses from around India."
+        },
+        {
+            "start_episode": 225,
+            "end_episode": 244,
+            "arc_title": "Return of Jethalal and Kerry in India",
+            "arc_description": "Jethalal returns from the london trip. He had met Kerry in London and invites her to India. When she arrives in India, Daya assumes that Jethalal has an affair with her. Later, the confusion is cleared, but Popatlal falls in love with Kerry and tries to marry her. However, it is revealed that Kerry loves someone else, so Popatlal is still a bachelor."
+        },
+        {
+            "start_episode": 245,
+            "end_episode": 246,
+            "arc_title": "Diwali (2009)",
+            "arc_description": "Gokuldham celebrates Diwali with Ajay Devgan, promoting his film All the Best"
+        },
+        {
+            "start_episode": 247,
+            "end_episode": 256,
+            "arc_title": "Red Cherry 8400",
+            "arc_description": "Jetha sells a Redcherry 8400 mobile Pphphoneone to Babita for her to give to her brother. Sundar comments on how much he likes it. Jethal brings it home and later when the phone goes missing Jetha accuses Sundar of stealing the phone. When Daya comes to know about this accusation, she makes a promise to leave Jethalal aur Sundar, depending on who is found guilty. Comedy ensues and finally Saint Champak descends and solve the problem."
+        },
+        {
+            "start_episode": 259,
+            "end_episode": 265,
+            "arc_title": "Tapu Sena Audition",
+            "arc_description": "Tapu Sena get a chance to audition for an ad by Rita."
+        },
+        {
+            "start_episode": 266,
+            "end_episode": 272,
+            "arc_title": "Tapu Sena is Famous except Gogi",
+            "arc_description": "Tapu Sena goes famous from appearing in the AD. When Gogi is excluded from the fame, he getsa upset and forces Tapu's hand to make him famous. Tapu hatches a plan to hide Gogida in Mohan's flat and make it seem like he has been kidnapped. Tension and comedy ensues."
+        },
+        {
+            "start_episode": 275,
+            "end_episode": 282,
+            "arc_title": "Swimming at Silver Club",
+            "arc_description": "Babita joins Silver Club as a swimming instructor and she invites all the women of Gokuldham Society to join Silver club as well. When Jethalal finds out about this, he wants to learn swimming from Babita. Unfortunately, men are not permitted inside Silver club during women's hours. Jetha plans toenter Silver club anyway by dressing up as a Sardaji and comedy ensues."
+        },
+        {
+            "start_episode": 289,
+            "end_episode": 294,
+            "arc_title": "New Year (2010)",
+            "arc_description": "Gokudham men plan to celebrate New Years by party shartying alone. Jetha gets passes to a good party but Sundar tears them up. Jetha and all other men are very angry but Sundar diffuses the situation by giving his and his sisters' word that the wives will serve the drinks theirselves."
+        },
+        {
+            "start_episode": 325,
+            "end_episode": 331,
+            "arc_title": "Holi (2010)",
+            "arc_description": "Members of Gokuldham society celebrate the festival of Holi."
+        },
+        {
+            "start_episode": 355,
+            "end_episode": 364,
+            "arc_title": "Saree sale at Bhatiawadi",
+            "arc_description": "Mahila Mandal buy defective sarees, but the saree seller alleges that Mahila Mandal did not buy sarees since they don't have a bill. So Mahila Mandal retaliates by doing a Garba Andolan in front of the shop."
+        },
+        {
+            "start_episode": 367,
+            "end_episode": 371,
+            "arc_title": "Childhood Games",
+            "arc_description": "All the parents are worried as Tapu Sena keeps watching devices all day. Champaklal advises the parents to play their childhood games with their children."
+        },
+        {
+            "start_episode": 390,
+            "end_episode": 402,
+            "arc_title": "GPL 2",
+            "arc_description": "Tapu Sena, tired of their boring vacation, plan GPL 2 with the help of Sundar. Jethalal is caught in crossfire since Daya and Babita are the captains with the team names Daya Dandiya Devils and Blaster Babita. Daya's team wins the match while Babita's team loses."
+        },
+        {
+            "start_episode": 403,
+            "end_episode": 409,
+            "arc_title": "Sodhi meets Irfan Pathan",
+            "arc_description": "Irfan Pathan is impressed by Sodhi's game in GPL-2, which was telecasted LIVE on TV. Sodhi being on cloud nine decides to meet Irfan Pathan at his house in Vadodara."
+        },
+        {
+            "start_episode": 409,
+            "end_episode": 412,
+            "arc_title": "Shampoo Massage",
+            "arc_description": "While Daya massages Jethalal's head, she mistakenly applies shampoo instead of oil, making his hair spiked. Iyer laughs at him and clicks a photo, so the humiliated Jethalal does the same to Iyer."
+        },
+        {
+            "start_episode": 413,
+            "end_episode": 425,
+            "arc_title": "Ghost In Gokuldham",
+            "arc_description": "A woman in a white saree who resembles a ghost constantly terrorises Gokuldham Society members. Despite repeated attempts to drive her away, she doesn't listen and threatens them. Tapu Sena and Rita suspect foul play and uncover that the ghost is a criminal and used to terrorise Gokuldham members so that they could carry out their illegal activities smoothly. Their cover is blown by Tapu's plan and Gokuldham is saved from the fake ghost."
+        },
+        {
+            "start_episode": 426,
+            "end_episode": 434,
+            "arc_title": "Popatlal and Koyal",
+            "arc_description": "Koyal, Taarak Mehta's sister-in-law, comes to Gokuldham society to stay with him for a few days while waiting for a visa to go to London. Meanwhile, Popatlal falls in love with Koyal and tries to impress and marry her. Koyal considers it a joke but later regrets it. In the end, Popatlal remains single."
+        },
+        {
+            "start_episode": 435,
+            "end_episode": 436,
+            "arc_title": "Eid Celebration",
+            "arc_description": "The members of the society celebrate Eid with Abdul."
+        },
+        {
+            "start_episode": 437,
+            "end_episode": 444,
+            "arc_title": "Dahi Handi (2010)",
+            "arc_description": "Gokuldham's Dahi Handi event becomes a competition between the men and the women. After breaking Dahi Handi, Daya falls and is admitted to the hospital. Later, she recovers and gets discharged from the hospital."
+        },
+        {
+            "start_episode": 445,
+            "end_episode": 452,
+            "arc_title": "Ganesh Utsav (2010)",
+            "arc_description": "Gokuladham Sangeet Samrat event is organised on the occasion of Ganesh Utsav."
+        },
+        {
+            "start_episode": 461,
+            "end_episode": 471,
+            "arc_title": "Babita & Iyer's marriage anniversary",
+            "arc_description": "Iyer buys a sports car for Babita on their wedding anniversary, but it proves to be stolen. Inspector Chalu Pandey gives them a 72-hour deadline to prove their innocence and to catch the dealer. Jethalal poses as a Sheikh from Dubai who wants the car, and the dealer is trapped and arrested."
+        },
+        {
+            "start_episode": 474,
+            "end_episode": 481,
+            "arc_title": "Chandiramani Flat Auction",
+            "arc_description": "Chandiramani sells his Gokuldham flat. Jethalal and Sodhi both are interested, so he organizes an auction. However, Champaklal explains to everyone it's wrong to sell the house via auction, so Chandiramani reverses his decision."
+        },
+        {
+            "start_episode": 482,
+            "end_episode": 483,
+            "arc_title": "Goli Misses His Father",
+            "arc_description": "To lose weight, Hathi takes a visit to a naturopathy camp for some days. However, Goli misses him and asks his mother to bring back his father. So, Mehta advises his mother to call Goli's paternal uncles to their home so that he doesn't feel alone."
+        },
+        {
+            "start_episode": 488,
+            "end_episode": 491,
+            "arc_title": "Daya doesn't respond from locked home",
+            "arc_description": "When Daya mistakenly spoils Jethalal's INR 15 Lakh cheque by pouring tea on it, he harshly insults her. When Jethalal realizes his mistake, he tries to call her from his shop and even comes to society to talk but she doesn't respond from locked (inside) home. After some time, with the help of society members, they come to know that she was sleeping after having cough syrup and Jethalal apologizes."
+        },
+        {
+            "start_episode": 492,
+            "end_episode": 498,
+            "arc_title": "Magic Show in Society",
+            "arc_description": "Tapu Sena faces a lot of trouble while playing cricket on their vacations, so they ask Mehta about any other vacation plan. During this chat, Mehta's childhood friend Magician Munnalal calls him, and Mehta invites him to do a magic show in their society. After the show, Tapu Sena urges Mehta to tell his friend to teach them some magic tips. After learning magic, Tapu Sena does some mistakes in their society and later they apologize for it."
+        },
+        {
+            "start_episode": 501,
+            "end_episode": 506,
+            "arc_title": "Ladies get credit cards",
+            "arc_description": "Ladies are fascinated by the credit card, and they all get one, but later they come to know that the bank is fraud."
+        },
+        {
+            "start_episode": 507,
+            "end_episode": 510,
+            "arc_title": "Paint cans delivered to Jethalal",
+            "arc_description": "Jethalal acquires paint cans instead of money and doesn't know what to do with them."
+        },
+        {
+            "start_episode": 537,
+            "end_episode": 541,
+            "arc_title": "Tapu goes bald",
+            "arc_description": "Tapu is adamant about going bald even after everyone requests him not to. Eventually, he does, and the reason comes out is that his classmate, who was suffering from cancer, is bald and students were bullying him."
+        },
+        {
+            "start_episode": 541,
+            "end_episode": 550,
+            "arc_title": "Baijanti's wrong number",
+            "arc_description": "When Popatlal goes to the hotel, he sees a woman named Baijanti. He secretly notes her mobile number often calls her, but it mistakenly belongs to Babita."
+        },
+        {
+            "start_episode": 551,
+            "end_episode": 558,
+            "arc_title": "Mahashivratri",
+            "arc_description": "Popatlal visits a pandit who tells him to do special pooja for Mahashivatri so that his marriage takes place. Although everyone is ready for the function, Jethalal, who had gone early to clear a payment eats 'Bhang' and is uncontrollable. However, with Taarak's help, Jethalal becomes normal."
+        },
+        {
+            "start_episode": 564,
+            "end_episode": 572,
+            "arc_title": "Sundar's 30 lakh scam",
+            "arc_description": "Sundar takes a loan from a moneylender but doesn't repay it and hides in Jethalal's house. Later all the confusions clear."
+        },
+        {
+            "start_episode": 578,
+            "end_episode": 587,
+            "arc_title": "Bhide's 1 Crore Email Fraud",
+            "arc_description": "According to an email, Bhide discovers that he has won INR 1 crore, so he pays a deposit for the prize money. But later he comes to understand that he has been frauded, so society members help him to recover his money and arrest those frauds."
+        },
+        {
+            "start_episode": 588,
+            "end_episode": 596,
+            "arc_title": "Jetha's Dadaji's Photo",
+            "arc_description": "Jethalal's wallet is stolen which contains the only photo of his grandfather late Jayantilal Gada. Later the thief himself returns the wallet at Jethalal's home after getting to know about sentimental reasons."
+        },
+        {
+            "start_episode": 597,
+            "end_episode": 604,
+            "arc_title": "Sodhi Swallows Glass",
+            "arc_description": "Sodhi believes he swallowed a piece of glass while drinking at a party and has to undergo an operation. In the end, it is revealed it was a piece of ice."
+        },
+        {
+            "start_episode": 605,
+            "end_episode": 614,
+            "arc_title": "Bhide Sells Mangoes",
+            "arc_description": "Bhide starts a business of selling mangoes from his Bhau kaka in Ratnagiri, but the mangoes prove to be rotten, infuriating Jethalal."
+        },
+        {
+            "start_episode": 615,
+            "end_episode": 620,
+            "arc_title": "Tapu Sena Hunger Strike",
+            "arc_description": "To get season balls and cricket bats Tapu Sena go for a hunger strike."
+        },
+        {
+            "start_episode": 621,
+            "end_episode": 622,
+            "arc_title": "Ready Promotion",
+            "arc_description": "Salman Khan visits Gokuldham Society to promote Ready."
+        },
+        {
+            "start_episode": 623,
+            "end_episode": 637,
+            "arc_title": "Gokuldham Khel Mahotsav",
+            "arc_description": "Tapu Sena & Champaklal organise a sports and games event for the members of Gokuldham society. Nattu Kaka and Bagha are invited as judges."
+        },
+        {
+            "start_episode": 638,
+            "end_episode": 646,
+            "arc_title": "Chaddi Gang Part 1",
+            "arc_description": "Mistakenly, Jethalal is stuck in his godown for the whole night. Later, a thief gang named Chaddi Gang enters the godown and tries to steal the electronic items from there. But, with the help of the Gada family, the members of the Chaddi Gang are arrested."
+        },
+        {
+            "start_episode": 647,
+            "end_episode": 653,
+            "arc_title": "Popatlal and his umbrella",
+            "arc_description": "Lonely, single and desperate, Popatlal organises a birthday party for his sole companion of 10 years, an umbrella. However, the party comes to a halt when the umbrella is stolen and subsequently found damaged. Later it is found out that the umbrella was broken by a waiter who was unable to celebrate his anniversary with his wife."
+        },
+        {
+            "start_episode": 653,
+            "end_episode": 658,
+            "arc_title": "Extra class",
+            "arc_description": "Tapu Sena is frustrated when Bhide holds extra tuition classes on weekends."
+        },
+        {
+            "start_episode": 659,
+            "end_episode": 677,
+            "arc_title": "Chaddi Gang Part 2",
+            "arc_description": "The story continues from where it left off with the Chaddi Gang's sister getting to know that he's in jail. She then forces her husband Rana to free the Chaddi Gang, or there would be terrible consequences. So Rana kidnaps Daya, but later on he eventually apologizes and realises his mistakes as a criminal in the underworld."
+        },
+        {
+            "start_episode": 678,
+            "end_episode": "Taarak Mehta Ka Ooltah Chashmah",
+            "arc_title": "Janmashtamani (2011)",
+            "arc_description": "The members of Gokuldham celebrate Janmashtamani and find out who will get chance to break Dahi Handi."
+        },
+        {
+            "start_episode": 679,
+            "end_episode": 681,
+            "arc_title": "Dahi handi (2011)",
+            "arc_description": "Dr. Hathi is selected to break the Dahi Handi, making everyone shocked, because they don't know how Hathi will do it."
+        },
+        {
+            "start_episode": 686,
+            "end_episode": 695,
+            "arc_title": "Ganesh Utsav (2011)",
+            "arc_description": "Gokuldham has a fancy dress competition on the occasion of Ganesh Utsav."
+        },
+        {
+            "start_episode": 701,
+            "end_episode": 706,
+            "arc_title": "The 80,000-horse statue",
+            "arc_description": "Sundar parcels an expensive horse statue to Jethlal to take care of it, but everyone in Gokuldham Society break it."
+        },
+        {
+            "start_episode": 707,
+            "end_episode": 710,
+            "arc_title": "Navratri (2011)",
+            "arc_description": "Falguni Pathak comes to Gokuldham society on the occasion of Navratri."
+        },
+        {
+            "start_episode": 711,
+            "end_episode": 715,
+            "arc_title": "Dusherra (2011)",
+            "arc_description": "Jethalal dreams of Ravana and decides not to burn it and asks society members to do the same."
+        },
+        {
+            "start_episode": 719,
+            "end_episode": 722,
+            "arc_title": "Iyer's interview in the newspaper",
+            "arc_description": "Iyer is excited as his interview is published in the newspaper, but his house newspaper is swapped."
+        },
+        {
+            "start_episode": 723,
+            "end_episode": 725,
+            "arc_title": "Babita and Iyer buy a fridge",
+            "arc_description": "Babita and Iyer decide to buy a new refrigerator, resulting in much confusion."
+        },
+        {
+            "start_episode": 726,
+            "end_episode": 728,
+            "arc_title": "Diwali (2011)",
+            "arc_description": "Gokuldham celebrates Diwali with the poor and unprivileged."
+        },
+        {
+            "start_episode": 729,
+            "end_episode": 732,
+            "arc_title": "Lottery tickets",
+            "arc_description": "Bhide and Mehta buy lottery tickets and hope to win. However, Bhide changes the tickets with Mehta based on his lucky numbers, in the hope to get his winning ticket."
+        },
+        {
+            "start_episode": 785,
+            "end_episode": 789,
+            "arc_title": "Bhide's new pair of glasses",
+            "arc_description": "Bhide, as usual, blames Tapu for his broken glasses. Finally, Sonu accepts that it was her mistake."
+        },
+        {
+            "start_episode": 790,
+            "end_episode": 810,
+            "arc_title": "Jethalal In Pakistan",
+            "arc_description": "Jethalal takes the members of Gokuldham to Kutch and they enjoy the visit. But Jethalal is misguided due to a camel and crosses the border into Pakistan. There, Jethalal is investigated by Karim Khan. The Gada family reaches Delhi for help. Jethalal's grandfather helped Karim Khan's grandfather during the 1947 partition, so Khan releases Jethalal and he safely returns to India."
+        },
+        {
+            "start_episode": 811,
+            "end_episode": 818,
+            "arc_title": "Popatlal, Señorita & Kalavati",
+            "arc_description": "Two different families simultaneously come to meet Popatlal for marriage meetings. One family is known to Daya, while the other is known to the Hathi family. With a plan, Popatlal tries to simultaneously meet both parties at different houses with two different characters, but the truth comes out and both families reject Popatlal for hiding the truth."
+        },
+        {
+            "start_episode": 825,
+            "end_episode": 839,
+            "arc_title": "Society Renovation by Sundarlal",
+            "arc_description": "The renovation work of the society is given to Sunderlal. However, Jethalal doubts if he will do it properly or not."
+        },
+        {
+            "start_episode": 840,
+            "end_episode": 847,
+            "arc_title": "Disco Dance Competition",
+            "arc_description": "To celebrate the new society, a disco dance contest is organized with an imported car as the prize."
+        },
+        {
+            "start_episode": 848,
+            "end_episode": 851,
+            "arc_title": "Abdul's New Shop",
+            "arc_description": "Upset by the comments that his shop looks old, Abdul decides to leave Gokuldham Society forever, but the society members surprise him with a new and renovated shop."
+        },
+        {
+            "start_episode": 852,
+            "end_episode": 856,
+            "arc_title": "Girvi Gehne",
+            "arc_description": "Jethalal decides to sell the mortgaged jewellery, unknowing that it belongs to Daya."
+        },
+        {
+            "start_episode": 857,
+            "end_episode": 867,
+            "arc_title": "Gandhi Maidaan",
+            "arc_description": "The society members decide to use Gandhiji's methods and teachings to stop the construction in Gandhi Maidaan."
+        },
+        {
+            "start_episode": 868,
+            "end_episode": 870,
+            "arc_title": "Iyer forgets his briefcase",
+            "arc_description": "Iyer forgets his briefcase with important documents at Jethalal's store, and Jethalal must deliver it in time."
+        },
+        {
+            "start_episode": 871,
+            "end_episode": 872,
+            "arc_title": "Mother's Day",
+            "arc_description": "Tapu Sena surprise their mothers and celebrate Mother's Day."
+        },
+        {
+            "start_episode": 873,
+            "end_episode": 878,
+            "arc_title": "Lord Ganesh Sculpture",
+            "arc_description": "The ladies unintentionally purchase and parcel an expensive idol of Lord Ganesha but are stuck in the shop when they can't pay."
+        },
+        {
+            "start_episode": 881,
+            "end_episode": 886,
+            "arc_title": "Jethalal Gets Electric Shock",
+            "arc_description": "Jethalal is electrocuted at Babita's house while repairing her tubelight and develops a phobia of electricity."
+        },
+        {
+            "start_episode": 887,
+            "end_episode": 891,
+            "arc_title": "Society Bhangaar",
+            "arc_description": "Tapu decides to sell the society bhangaar (trash), but also sells Bhide's scooter, making Bhide very angry."
+        },
+        {
+            "start_episode": 891,
+            "end_episode": 896,
+            "arc_title": "Ferrari Ki Sawaari",
+            "arc_description": "Sharman Joshi and Boman Irani visit Gokuldham to promote Ferrari Ki Sawaari."
+        },
+        {
+            "start_episode": 897,
+            "end_episode": 901,
+            "arc_title": "Jethalal fights with everyone",
+            "arc_description": "Jethalal misplaces a Rs. 25 lakh cheque and angrily fights with everyone."
+        },
+        {
+            "start_episode": 905,
+            "end_episode": 911,
+            "arc_title": "Bol Bachchan press conference",
+            "arc_description": "Society members pretend to be reporters to attend the Bol Bachchan press-conference."
+        },
+        {
+            "start_episode": 912,
+            "end_episode": 914,
+            "arc_title": "Bhide's moustache",
+            "arc_description": "Bhide's fake moustache is stuck, and everyone tries different ways to remove it."
+        },
+        {
+            "start_episode": 915,
+            "end_episode": 922,
+            "arc_title": "Jethalal gives bribe",
+            "arc_description": "Gents plan to party, but in hurry, they enter a no-entry road. Jethlal tries to pay his way out, but the honest policeman asks him to get his father to the police station. He requests Daya to act as her mother and go to the police station but gets caught when Champaklal also arrives at the police station."
+        },
+        {
+            "start_episode": 923,
+            "end_episode": 928,
+            "arc_title": "Choco Moco Chocolate",
+            "arc_description": "Babita throws the chocolate gifted by Jethalal. Seeing this he is devastated but later all the confusions are cleared."
+        },
+        {
+            "start_episode": 929,
+            "end_episode": 932,
+            "arc_title": "Raksha-bandhan (2012)",
+            "arc_description": "After Tapu protects a girl named Jiya in school, she ties him rakhi."
+        },
+        {
+            "start_episode": 933,
+            "end_episode": 941,
+            "arc_title": "Dahi Handi (2012)",
+            "arc_description": "A gangster hides a diamond inside Gokuldham's Dahi Handi."
+        },
+        {
+            "start_episode": 942,
+            "end_episode": 945,
+            "arc_title": "Eid (2012)",
+            "arc_description": "Because Abdul misses his family, Gokuldham invite them and grandly celebrate Eid."
+        },
+        {
+            "start_episode": 946,
+            "end_episode": 951,
+            "arc_title": "Jethalal and Passport",
+            "arc_description": "Jethalal is arrested after he takes the passport of a young boy who had hit Jethalal with his bike, but that boy is Champaklal's friend's grandson."
+        },
+        {
+            "start_episode": 952,
+            "end_episode": 963,
+            "arc_title": "Barfi",
+            "arc_description": "Ranbir Kapoor visits to promote [[Barfi!nn]]."
+        },
+        {
+            "start_episode": 968,
+            "end_episode": 980,
+            "arc_title": "Ganesh Utsav (2012)",
+            "arc_description": "A Grand Antakshari event, hosted by Amit Mistry, is organised on the occasion of Ganesh Utsav, which Tapu's team wins."
+        },
+        {
+            "start_episode": 983,
+            "end_episode": 1000,
+            "arc_title": "Sundar brings Chanya-Choli",
+            "arc_description": "Sundar starts a business of Chanya-Choli on Navratri, which becomes a headache for Jethalal. Later, he holds a havan to get rid of Sundar."
+        },
+        {
+            "start_episode": 1001,
+            "end_episode": 1009,
+            "arc_title": "1000 Episodes Celebration",
+            "arc_description": "Ajay Devgn and Sonakshi Sinha visit Gokuldham Society to promote Son of Sardar. Asit Kumarr Modi introduces the whole crew of TMKOC for the celebration of 1000 happisodes (episodes)."
+        },
+        {
+            "start_episode": 1010,
+            "end_episode": 1018,
+            "arc_title": "Blind people donation",
+            "arc_description": "Tapu Sena collects a huge donation as part of their school project for blind people, but Tapu gives it to a fraud blind couple on the road, who are later revealed to be the members of the same organization."
+        },
+        {
+            "start_episode": 1019,
+            "end_episode": 1024,
+            "arc_title": "Jewellery Shopping",
+            "arc_description": "Bhide's kaka arrives in Gokuldham Society to buy jewellery for his daughter from Jethalal. However, Jethalal isn't at home and has gone for a weight loss program."
+        },
+        {
+            "start_episode": 1025,
+            "end_episode": 1056,
+            "arc_title": "Gulabo",
+            "arc_description": "A woman from Matkunda, Gulabo, claims Jethalal as her husband showing their marriage certificate, video clips of marriage, and marriage photographs as proof. However, Jethalal says it was a film shooting scene, and society members with the Gada family take Jethalal's side. After that Gulabo files a case in the court, but later she accepts that it was just a film shooting, after Jethalal, seeing no hope to win the case, acts like a hermit. Gulabo then marries Jethalal's lawyer who falls for her seeing her very first time."
+        },
+        {
+            "start_episode": 1057,
+            "end_episode": 1060,
+            "arc_title": "Republic Day (2013)",
+            "arc_description": "Members of Gokuldham society celebrate Republic Day."
+        },
+        {
+            "start_episode": 1061,
+            "end_episode": 1080,
+            "arc_title": "Tapu Sena's new smartphones",
+            "arc_description": "To fulfill a promise, Jethalal has to give a smartphone to Tapu. With Tapu, other members of Tapu Sena request smartphones from their parents. They misuse their new phones and are suspended from school. Later, Tapu Sena understands their mistakes and promises to not overuse the devices."
+        },
+        {
+            "start_episode": 1081,
+            "end_episode": 1088,
+            "arc_title": "Bharti",
+            "arc_description": "A lady named Bharti is found on the terrace and she explains that she was physically harassed by some goons. The society members then teach those goons a lesson."
+        },
+        {
+            "start_episode": 1089,
+            "end_episode": 1112,
+            "arc_title": "Sheru",
+            "arc_description": "A dog seeks shelter in Gokuldham and the members decide to keep him and Daya names him Sheru. Jethalal is extremely scared of the dog. In the end, Sheru is loved by Jethalal and Champaklal too."
+        },
+        {
+            "start_episode": 1113,
+            "end_episode": 1119,
+            "arc_title": "Gogi at the Gada's",
+            "arc_description": "After Roshan and Sodhi go to Amritsar for family reasons, Gogi stays at Gada house and annoys Jethalal."
+        },
+        {
+            "start_episode": 1120,
+            "end_episode": 1131,
+            "arc_title": "Sangram Singh Mangoes Orchard",
+            "arc_description": "Tapu Sena steal mangoes from the garden of a man named Sangram Singh, who holds Gogi as a punishment."
+        },
+        {
+            "start_episode": 1132,
+            "end_episode": 1137,
+            "arc_title": "Babita's phone number",
+            "arc_description": "Jethalal notes down Babita's cousin phone number on a cash note and then misplaces it."
+        },
+        {
+            "start_episode": 1145,
+            "end_episode": 1153,
+            "arc_title": "Trucks in Gokuldham",
+            "arc_description": "3 Unknown trucks are stuck in the compound without any driver which creates confusion and chaos. Yamla Pagla Deewana 2 film is also promoted. Roshan and Sodhi return at the end from Punjab."
+        },
+        {
+            "start_episode": 1154,
+            "end_episode": 1174,
+            "arc_title": "Khote Classes",
+            "arc_description": "After Sonu tops her school exams, Vishwasrao Khote claims she studied from his classes even though she didn't. Everyone successfully proves Bhide's innocence."
+        },
+        {
+            "start_episode": 1175,
+            "end_episode": 1185,
+            "arc_title": "Taarak's affair with Kavita",
+            "arc_description": "Anjali finds out that Taarak is chatting with a girl named Kavita and suspects he has an affair."
+        },
+        {
+            "start_episode": 1187,
+            "end_episode": 1194,
+            "arc_title": "Gokuldham Society is Sold?",
+            "arc_description": "The Gokuldham members receive a notice from MAC associates. However, it was a prank made by Asit Kumarr Modi, who surprises society members on completing 5 years of the show where Shah Rukh Khan & Rohit Shetty also come to promote Chennai Express."
+        },
+        {
+            "start_episode": 1195,
+            "end_episode": 1202,
+            "arc_title": "Tapu and Champaklal in Paris",
+            "arc_description": "Tapu wins a Smurfs 2 contest and the prize includes a trip to Paris and Brussels."
+        },
+        {
+            "start_episode": 1203,
+            "end_episode": 1206,
+            "arc_title": "Independence Day (2013)",
+            "arc_description": "Couples sing patriotic songs and celebrate Independence Day."
+        },
+        {
+            "start_episode": 1207,
+            "end_episode": 1212,
+            "arc_title": "Raksha Bandhan in Ahmedabad",
+            "arc_description": "Daya and Jethalal travel to Ahmedabad to celebrate Raksha Bandhan with Sundarlal."
+        },
+        {
+            "start_episode": 1213,
+            "end_episode": 1218,
+            "arc_title": "Dahihandi (2013)",
+            "arc_description": "On the occasion of Janmashtami, Lord Krishna himself arrives as child and breaks handi in Gokuldham and blesses everyone."
+        },
+        {
+            "start_episode": 1227,
+            "end_episode": 1234,
+            "arc_title": "Ganpati Utsav (2013)",
+            "arc_description": "On the occasion of Ganpati Utsav, Tapu Sena organised Kaun Banega Murga program."
+        },
+        {
+            "start_episode": 1219,
+            "end_episode": 1225,
+            "arc_title": "Jethalal is stalked",
+            "arc_description": "Jethalal is scared as a stranger is continuously stalking and taking his photos. Later, it is revealed that the stranger likes Jethalal's shirts and wanted clothes like him."
+        },
+        {
+            "start_episode": 1251,
+            "end_episode": 1254,
+            "arc_title": "25000 rupees envelope",
+            "arc_description": "Tapu Sena finds an envelope with 25000 rupees in it."
+        },
+        {
+            "start_episode": 1254,
+            "end_episode": 1258,
+            "arc_title": "Champaklal's Hiccups",
+            "arc_description": "Champaklal gets hiccups at midnight and it doesn't stop."
+        },
+        {
+            "start_episode": 1259,
+            "end_episode": 1264,
+            "arc_title": "Bhide's antique radio",
+            "arc_description": "Bhide buys an antique radio, but weird and ghostly events start occurring. Iyer then finds out that Jadoo Wants to send a message to Krrish."
+        },
+        {
+            "start_episode": 1265,
+            "end_episode": 1269,
+            "arc_title": "Sachin Tendulkar retirement",
+            "arc_description": "Tapu Sena is very sad as their favourite cricketer, Sachin Tendulkar is retiring."
+        },
+        {
+            "start_episode": 1270,
+            "end_episode": 1278,
+            "arc_title": "Necklace Fraud",
+            "arc_description": "Ladies go for a Kitty Party and buy a gold necklace in celebration but find out that it is fake. They decide to catch the thief red-handed and a disguised Daya acts as a rich woman to lure the thief to their trap."
+        },
+        {
+            "start_episode": 1279,
+            "end_episode": 1284,
+            "arc_title": "Onions at Gada Electronics",
+            "arc_description": "A Lady Named Bawri brought onions in Bulk at Gada Electronics and police raided Gada Electronics and arrest Bagha for keeping onions in bulk quantity."
+        },
+        {
+            "start_episode": 1285,
+            "end_episode": 1308,
+            "arc_title": "Popatlal and Bulbul",
+            "arc_description": "Bulbul escapes two days before her wedding and arrives in Mumbai. While sitting alone in the Shiv temple she meets Popatlal after which Popatlal takes Bulbul to his house and tries to save her from the police. After that, Bulbul's parents find out that Popatlal has Bulbul, so they both decide that Bulbul will marry him. At the time of marriage, everyone understands that Bulbul is in love with Rahul. In the end, Popatlal lets Rahul secretly marry Bulbul and remains single."
+        },
+        {
+            "start_episode": 1310,
+            "end_episode": 1318,
+            "arc_title": "Jalsa Party 2014",
+            "arc_description": "Sunderlal Organizes Jalsa Party 2014"
+        },
+        {
+            "start_episode": 1319,
+            "end_episode": 1326,
+            "arc_title": "Bagha Messed Everything up",
+            "arc_description": "Bagha Messes everything up, later Jethalal finds out that Bawri proposes Bagha because of that Bagha had been messing everything up, and later Bagha accepts Bawri's proposal."
+        },
+        {
+            "start_episode": 1327,
+            "end_episode": 1341,
+            "arc_title": "Fitness Camp",
+            "arc_description": "The ladies organize a fitness camp in the society and Babita invites her friend Sofia (played by Nigaar Khan) to conduct it. However, Jethalal suffers a painful sprain in his waist during the camp."
+        },
+        {
+            "start_episode": 1342,
+            "end_episode": 1346,
+            "arc_title": "Anjali demands a surprise gift",
+            "arc_description": "Anjali wants a gift from Taarak, but he has no idea what to gift her."
+        },
+        {
+            "start_episode": 1347,
+            "end_episode": 1353,
+            "arc_title": "Tapu Sena extra classes",
+            "arc_description": "Tapu Sena lies about attending extra classes, so no one knows where they go. Later, society members come to know that they go to teach poor & needy kids who want to study."
+        },
+        {
+            "start_episode": 1354,
+            "end_episode": 1361,
+            "arc_title": "Bhide-Madhavi anniversary",
+            "arc_description": "Society members organize a surprise anniversary party for Bhide and Madhavi."
+        },
+        {
+            "start_episode": 1362,
+            "end_episode": 1364,
+            "arc_title": "Holi (2014)",
+            "arc_description": "Various reasons cause Holi to be cancelled."
+        },
+        {
+            "start_episode": 1365,
+            "end_episode": 1369,
+            "arc_title": "Youngistaan",
+            "arc_description": "Jackky Bhagnani and Neha Sharma visit Gokuldham Society to promote their film Youngistaan."
+        },
+        {
+            "start_episode": 1370,
+            "end_episode": 1378,
+            "arc_title": "Sodhi is Missing",
+            "arc_description": "Sodhi is kidnapped by some sardars, and society members search for him. In the end, they meet him at a Gurudwara."
+        },
+        {
+            "start_episode": 1379,
+            "end_episode": 1380,
+            "arc_title": "Varun Dhawan in Gokuldham",
+            "arc_description": "Varun Dhawan visits to promote his film Main Tera Hero."
+        },
+        {
+            "start_episode": 1382,
+            "end_episode": 1387,
+            "arc_title": "Bhoothnath Returns",
+            "arc_description": "The society members experience paranormal activities in the society, which was done by Amitabh Bachchan himself who visits Gokuldham society to promote Bhoothnath Returns."
+        },
+        {
+            "start_episode": 1408,
+            "end_episode": 1419,
+            "arc_title": "Adventure Park Surprise",
+            "arc_description": "Bhide gives a surprise to Tapu Sena – a visit to an adventure park."
+        },
+        {
+            "start_episode": 1420,
+            "end_episode": 1425,
+            "arc_title": "Iyyer's Promotion Party",
+            "arc_description": "Krishnan Subramaniam Iyyer's Promotion Story."
+        },
+        {
+            "start_episode": 1426,
+            "end_episode": 1445,
+            "arc_title": "GPL 3",
+            "arc_description": "Mehta hits a six on Tapu's ball which spills Jethalal's Jalebi Fafda. This results in GPL 3 with Jethalal and Mehta being captains. Jethalal's team is named as Jetha Ke Jaanbaaz while Mehta's team is named as Mehta Ke Maharathi. Jethalal's team eventually wins the match while everyone eats Jalebi Fafda after the ends."
+        },
+        {
+            "start_episode": 1447,
+            "end_episode": 1465,
+            "arc_title": "10 Crore Ruby",
+            "arc_description": "A mysterious man who reveals himself to be Ajay Dewan secretly comes to the Gokuldham Society in disguise which creates a suspicion in the society members' minds. He reveals that he is in Mumbai to sell a ruby which is worth 10 crore. But one day both Ajay Dewan and the ruby go missing, causing the society members to call in the CID cops to investigate."
+        },
+        {
+            "start_episode": 1465,
+            "end_episode": 1478,
+            "arc_title": "Hongkong-Disneyland trip",
+            "arc_description": "The members of Gokuldham society win a trip to Hongkong-Disneyland in Tapu Sena's lottery and the whole society except Mehta family, Iyer & Popatlal fly to Hongkong."
+        },
+        {
+            "start_episode": 1489,
+            "end_episode": 1499,
+            "arc_title": "Ganesh Utsav (2014)",
+            "arc_description": "Members of Gokuldham society celebrate Ganesh Utsav."
+        },
+        {
+            "start_episode": 1500,
+            "end_episode": 1507,
+            "arc_title": "Bhide's surprise treat (1500 Episodes Celebration)",
+            "arc_description": "Bhide arranges a surprise and takes everyone out for a day for Mumbai Darshan."
+        },
+        {
+            "start_episode": 1518,
+            "end_episode": 1524,
+            "arc_title": "Swachh Bharat Abhiyaan",
+            "arc_description": "The ladies have their husbands help them to clean the society as part of the Swachh Bharat Mission."
+        },
+        {
+            "start_episode": 1525,
+            "end_episode": 1532,
+            "arc_title": "Diwali (2014)",
+            "arc_description": "The team of Happy New Year visit Gokuldham to promote their film and celebrate diwali."
+        },
+        {
+            "start_episode": 1533,
+            "end_episode": 1541,
+            "arc_title": "Popatlal purchases a new phone",
+            "arc_description": "Popatlal buys a new phone from Jethalal's shop to replace his damaged old phone. But his nitpicking while shopping annoys Jethalal, so he plays a prank using Popatlal's phone."
+        },
+        {
+            "start_episode": 1546,
+            "end_episode": 1557,
+            "arc_title": "Daya's Mother",
+            "arc_description": "Everyone is very excited to meet Daya's mother as she is coming to Mumbai to receive her Samaj Ratna award. But it is revealed that Sundar is the one who is acting to be Daya's mother. Everyone is shocked but later all the misunderstandings are clear."
+        },
+        {
+            "start_episode": 1566,
+            "end_episode": 1572,
+            "arc_title": "Kathiawadi food",
+            "arc_description": "Daya promises to cook royal Kathiawadi food, but there is a delay, infuriating Jethalal."
+        },
+        {
+            "start_episode": 1573,
+            "end_episode": 1585,
+            "arc_title": "Champaklal is drunk?/New Year (2015)",
+            "arc_description": "The gents decide to secretly drink amidst the new year party, but Champaklal to catch them acts as drunk."
+        },
+        {
+            "start_episode": 1589,
+            "end_episode": 1595,
+            "arc_title": "Bhide's Sakharam",
+            "arc_description": "Madhavi buys a new scooter for Bhide with help from Champaklal."
+        },
+        {
+            "start_episode": 1599,
+            "end_episode": 1609,
+            "arc_title": "Winter Party",
+            "arc_description": "The ladies of Gokuldham society celebrate a winter party by organizing 'No.1 Dil Todne Wala' Poetry Program."
+        },
+        {
+            "start_episode": 1611,
+            "end_episode": 1611,
+            "arc_title": "Hey Bro",
+            "arc_description": "Ganesh Acharya visits Gokuldham to promote Hey Bro."
+        },
+        {
+            "start_episode": 1624,
+            "end_episode": 1629,
+            "arc_title": "Bawri brings luck to Gada Electronics",
+            "arc_description": "Jethalal is upset due to his business not running well, so Bawri brings customers to Gada Electronics from another electronics store. From that, Jethalal thinks that his luck has improved due to Bawri. Then the chairman of the electronic union calls Jethalal and tells him everything, and later Jethalal apologizes to everyone for this incident."
+        },
+        {
+            "start_episode": 1640,
+            "end_episode": 1663,
+            "arc_title": "Daya brings a baby girl to Gokuldham",
+            "arc_description": "Daya is at the hospital helping with a delivery. She leaves the hospital and tries to find an auto rickshaw. She hears the baby girl crying. She takes the baby girl to society, and they name her Khushi."
+        },
+        {
+            "start_episode": 1686,
+            "end_episode": 1723,
+            "arc_title": "Tapu Sena's SSC result and college admission",
+            "arc_description": "Tapu Sena gets a good result in SSC boards, but only Tapu from the Tapu Sena struggles to get admission in M.K. Gandhi college. I.M. Khare is a corrupt trustee and the Gokuldham members expose him."
+        },
+        {
+            "start_episode": 1758,
+            "end_episode": 1808,
+            "arc_title": "Interior renovation",
+            "arc_description": "Due to rising problems in their flats, the Gokuldham members decide to renovate their interiors and face many hurdles."
+        },
+        {
+            "start_episode": 1822,
+            "end_episode": 1824,
+            "arc_title": "Conspiracy against Tapu",
+            "arc_description": "A boy, Vicky, in Tapu's college throws a plane made from Tapu's notebook page on Professor Nalini. She takes Tapu's ID card as punishment and tells him to bring his father to school. Meanwhile, Tapu disguises Popatlal as Jethalal and brings him to college."
+        },
+        {
+            "start_episode": 1824,
+            "end_episode": 1826,
+            "arc_title": "Prof. Nalini's Rishta with Popatlal",
+            "arc_description": "Popatlal goes to meet with a girl for his marriage, who turns out to be Tapu's professor Nalini and she rejects Popatlal."
+        },
+        {
+            "start_episode": 1827,
+            "end_episode": 1829,
+            "arc_title": "Promotion of Dilwale",
+            "arc_description": "As Nalini rejects Popatlal, he is very sad and Asit Modi brings Shahrukh Khan and Kajol to make him happy and as well as for the promotion of Dilwale."
+        },
+        {
+            "start_episode": 1831,
+            "end_episode": 1842,
+            "arc_title": "Babita's image on the Tobacco hoarding",
+            "arc_description": "Since teenage Babita dreams to be a model but can't. When Jethalal finds out, he helps her get a chance to do an advertisement, unaware that the advertisement promotes tobacco."
+        },
+        {
+            "start_episode": 1850,
+            "end_episode": 1856,
+            "arc_title": "Tapusena college bunk",
+            "arc_description": "Tapusena go to a mall bunking college classes. Their parents find out through Bhide and they plan to shame them in a Gutlimar program."
+        },
+        {
+            "start_episode": 1857,
+            "end_episode": 1858,
+            "arc_title": "Republic Day (2016)",
+            "arc_description": "Members of Gokuldham society celebrate Republic Day."
+        },
+        {
+            "start_episode": 1859,
+            "end_episode": 1864,
+            "arc_title": "Jetha Taarak tea fiasco",
+            "arc_description": "Jethalal and Taarak roam around Gokuldham society and finally outdoors to drink a cup of tea. Ultimately they end up in prison."
+        },
+        {
+            "start_episode": 1868,
+            "end_episode": 1888,
+            "arc_title": "The gold biscuit briefcase",
+            "arc_description": "While going to collect a payment, Bhide saves a man Dhanraj from an accident, for that he got rewarded which leads Bhide to big trouble."
+        },
+        {
+            "start_episode": 1889,
+            "end_episode": 1902,
+            "arc_title": "Jetha Champak conflict",
+            "arc_description": "Champaklal gets furious at Jethalal after he arrives late for a family dinner. Jethalal gets upset that Champaklal unjustly scolds him and is also upset."
+        },
+        {
+            "start_episode": 1903,
+            "end_episode": 1908,
+            "arc_title": "Gogi's dream college",
+            "arc_description": "Gogi faces the board exams and gets all tensed about passing the exams."
+        },
+        {
+            "start_episode": 1909,
+            "end_episode": 1934,
+            "arc_title": "Iyer-Babita Divorce",
+            "arc_description": "A miscommunication over mobile creates confusion between Iyer and Babita, eventually leading to divorce."
+        },
+        {
+            "start_episode": 1939,
+            "end_episode": 1944,
+            "arc_title": "Madhavi's mango business",
+            "arc_description": "Ganpat Rao in a fruit market has a stammer. Madhavi assumes he's selling mangoes at a cheap price but actually its a miscommunication. The Bhides face the harsh reality of loss in business when faced with the truth."
+        },
+        {
+            "start_episode": 1945,
+            "end_episode": 1948,
+            "arc_title": "Gogi's SSC results",
+            "arc_description": "The drama that ensues while Gogi awaits his SSC results."
+        },
+        {
+            "start_episode": 1949,
+            "end_episode": 1962,
+            "arc_title": "Bagha Bawri Engagement",
+            "arc_description": "Bhaga and Bawri plan their engagement as Jethalal prepares to play the part of a servant in front of Bawri's mom and dad again."
+        },
+        {
+            "start_episode": 1967,
+            "end_episode": 1980,
+            "arc_title": "Popatlal's new love story",
+            "arc_description": "Popatlal falls in love with an undercover cop - who's not even a woman."
+        },
+        {
+            "start_episode": 1981,
+            "end_episode": 1982,
+            "arc_title": "Interview with Irrfan Khan",
+            "arc_description": "Popatlal interviews Irrfan Khan for his film Damru along with Bhide."
+        },
+        {
+            "start_episode": 1983,
+            "end_episode": 1988,
+            "arc_title": "Jethalal's hand stuck in a Lota",
+            "arc_description": "Jethalal's hand gets stuck in a lota, and as usual a string of weird problem ensues."
+        },
+        {
+            "start_episode": 1989,
+            "end_episode": 1990,
+            "arc_title": "Dishoom Film Promotion",
+            "arc_description": "Varun Dhawan visits Gokuldham to promote his film Dishoom"
+        },
+        {
+            "start_episode": 1991,
+            "end_episode": 1994,
+            "arc_title": "Bhide Pressure Cooker Blast",
+            "arc_description": "Bhide gets locked out of his home with a pressure cooker on the stove top. All the society members try a number of comedic solutions to prevent a blast."
+        },
+        {
+            "start_episode": 1995,
+            "end_episode": 2000,
+            "arc_title": "Gokuldham's Goons",
+            "arc_description": "When Bawri gets cat called by street thugs, Gokuldham's men decide to take matters into their own hands. They appear the disguise of goons to teach the street thugs a lesson."
+        },
+        {
+            "start_episode": 2001,
+            "end_episode": 2003,
+            "arc_title": "Independence Day (2016)",
+            "arc_description": "Gokuldham celebrates Independence Day."
+        },
+        {
+            "start_episode": 2004,
+            "end_episode": 2006,
+            "arc_title": "Rakshabandhan (2016)",
+            "arc_description": "Women of Gokuldham society celebrate Rakshabandhan."
+        },
+        {
+            "start_episode": 2007,
+            "end_episode": 2022,
+            "arc_title": "10 crore saree",
+            "arc_description": "Daya and the other ladies of Gokuldham wish to wear a 10-crore saree they saw in a diamond exhibition. They request Jethalal to arrange it for one day. Jethalal arranges a duplicate saree for them. Later, he and Mehta are arrested when the real saree is stolen on the same day. But the main thief of the saree turns out to be the 10-crore saree-owner's wife."
+        },
+        {
+            "start_episode": 2023,
+            "end_episode": 2030,
+            "arc_title": "Ganesh Utsav (2016)",
+            "arc_description": "Members of Gokuldham society celebrate Ganesh Utsav."
+        },
+        {
+            "start_episode": 2031,
+            "end_episode": 2038,
+            "arc_title": "Mission Patni Pariksha",
+            "arc_description": "The Gokuldham men decide to test their wives by asking them to keep a big secret. When the wives find out, they get angry at the men and soon Saint Champak decends."
+        },
+        {
+            "start_episode": 2039,
+            "end_episode": 2047,
+            "arc_title": "Navratri (2016)",
+            "arc_description": "Gokuldham celebrates Navratri. The trouble this year is a goon named All-in-one bhai is also planning his garba night in the same locale and challenges Gokuldham"
+        },
+        {
+            "start_episode": 2056,
+            "end_episode": 2060,
+            "arc_title": "Sonu's chocolate business",
+            "arc_description": "Sonu prepares for some chocolates for her family and society memebrs. Everyone encourages Sonu to start a small business selling homemade chocolates. She execures the plan but she stands to find out that one of her biggest orders gets cancelled."
+        },
+        {
+            "start_episode": 2061,
+            "end_episode": 2062,
+            "arc_title": "Shivaay Film Promotion",
+            "arc_description": "Ajay Devgn visits Gokuldham to promote his film Shivaay."
+        },
+        {
+            "start_episode": 2067,
+            "end_episode": 2072,
+            "arc_title": "Natu kaka & Bhaga pay rise",
+            "arc_description": "Natu kaka and Bagha demand pay rise, they form an labour union and form a mutiny against Jethalal."
+        },
+        {
+            "start_episode": 2073,
+            "end_episode": 2082,
+            "arc_title": "Godess Lakshmi in Jethalal's dream",
+            "arc_description": "This arc is a low-key propaganda for the Modi government, during the ₹1000 note ban of 2017. Godess Lakshmi appears in Jethalal's dreams and urges him to keep track of his money. With a deal gone bad with one of his clients, trouble ensues."
+        },
+        {
+            "start_episode": 2083,
+            "end_episode": 2094,
+            "arc_title": "Party sharty with French bottle",
+            "arc_description": "Sodhi proposes a party on new years eve 2016. The ladies reluctently allow the men to do the party. The men acquire a french bottle of alcohol. All are excited to commence party sharty but are disappointed to discover that there is kadha in the bottle."
+        },
+        {
+            "start_episode": 2095,
+            "end_episode": 2102,
+            "arc_title": "Ghanchakkar In Shop",
+            "arc_description": "A strange fellow invades Jethalal's shop and calls it his own. Later, he follows Jethalal to society and calls it things his own too."
+        },
+        {
+            "start_episode": 2103,
+            "end_episode": 2104,
+            "arc_title": "Popatlal meets Ashit",
+            "arc_description": "Popatlal goes to mee the Ashit for his marriage. And as usual Ashit acts all bakchod, running from him."
+        },
+        {
+            "start_episode": 2015,
+            "end_episode": 2106,
+            "arc_title": "New Year (2017)",
+            "arc_description": "Gokuldham celebrates New Year (2017)"
+        },
+        {
+            "start_episode": 2111,
+            "end_episode": 2124,
+            "arc_title": "Don Badal steals Bhide's scooter",
+            "arc_description": "After a tiff between Bhide and Don Badal on the road, the don kidnaps Bhide's scooter Sakharam and demads 1 crore to give it back. As usual comedic trouble ensues."
+        },
+        {
+            "start_episode": 2125,
+            "end_episode": 2126,
+            "arc_title": "Republic Day (2017)",
+            "arc_description": "Golkuldham celebrates Republic Day (2017)."
+        },
+        {
+            "start_episode": 2128,
+            "end_episode": 2137,
+            "arc_title": "Mission Admission",
+            "arc_description": "Sunita the green grocer of the society is in a pickle. Her daughter Tanvi is being denied admission at a school due to their low social status. Gokuldham determines that they would help get Tanvi into the school."
+        },
+        {
+            "start_episode": 2138,
+            "end_episode": 2146,
+            "arc_title": "Problem with garbage disposal",
+            "arc_description": "There is a problem with garbage disposal at Gokuldham. At the midst of this Champaklal goes missing. But soon Saint Champak decends and pelos unsolicited gyan about disposing the garbage."
+        },
+        {
+            "start_episode": 2147,
+            "end_episode": 2154,
+            "arc_title": "Tapu's birthday",
+            "arc_description": "This is when the changeover happens from Bhavya Gandhi as Tapu to Raj Anadkhart as Tapu. Celebrating his birthday at midnight and then throwing a party is just a guise to introduce the new Tapu."
+        },
+        {
+            "start_episode": 2155,
+            "end_episode": 2166,
+            "arc_title": "Holi (2017) and Popatlal's marriage",
+            "arc_description": "During Holi (2017) Popatlal losing all his hair and he denies that he would play Holi. Then Jethalal plans to get Popatlal out, dresses Sundar up as a girl, proposes marraige to Popatlal and tries to get him out that way."
+        },
+        {
+            "start_episode": 2167,
+            "end_episode": 2168,
+            "arc_title": "Gudi Padwa (2017)",
+            "arc_description": "Gokuldham society members celebrate Gudi Padwa 2017."
+        },
+        {
+            "start_episode": 2169,
+            "end_episode": 2181,
+            "arc_title": "Ratnavali's Gemstones",
+            "arc_description": "A friend of Babita named Ratnavali comes to the society and chats with the Mahila Mandal and tells them about her gemstones which has the power to reveal the true nature of their husbands. The Mahila Mandal is convinced this is true and buys gemstones from Ratnavali to make their husbands wear it as a pendant. The pendants reveal that Jethalal is not loyal and comedic trouble ensues."
+        },
+        {
+            "start_episode": 2182,
+            "end_episode": 2188,
+            "arc_title": "Gokuldham's men steal a Policeman's car",
+            "arc_description": "The men of Gokuldham society steal a policeman's car by mistake. Then as usual comedic trouble ensues and all of them get arrested."
+        },
+        {
+            "start_episode": 2189,
+            "end_episode": 2199,
+            "arc_title": "Tapu sena as daily wage labourers",
+            "arc_description": "Tapusena come across a group of daily wage laborers while playing. They also find out that the contractor for the laborers is very harsh on them. So, as is usual, they take the moral high ground and their savior complex makes them decide to save these people. Some comedy ensues."
+        },
+        {
+            "start_episode": 2235,
+            "end_episode": 2246,
+            "arc_title": "Goa trip",
+            "arc_description": "Tapu Sena arranges to visit Goa with Society members."
+        },
+        {
+            "start_episode": 2247,
+            "end_episode": 2247,
+            "arc_title": "Mubarakan Team In Gokhuldam",
+            "arc_description": "The Team Of Mubarakan (2017), visit Gokhuldam Society after their return from Goa."
+        },
+        {
+            "start_episode": 2283,
+            "end_episode": 2290,
+            "arc_title": "Ganesh Utsav (2017)",
+            "arc_description": "Gokuldham society celebrates the festival of Ganesh Chaturthi and organizes Divya Veshbhusha program."
+        },
+        {
+            "start_episode": 2384,
+            "end_episode": 2415,
+            "arc_title": "Pinku's Parents",
+            "arc_description": "The residents of Gokuldham society come to know that Pinku's parents work in a secret government agency after many twists and turns."
+        },
+        {
+            "start_episode": 2493,
+            "end_episode": 2511,
+            "arc_title": "Señorika Island",
+            "arc_description": "Champaklal dreams that his son is involved in a 300-crore bank-loan scam and has escaped to an island country called Señorika island. However, even after he wakes up, he fears that his dream would come true. Later, Jethalal returns and Champaklal is relieved."
+        },
+        {
+            "start_episode": 2605,
+            "end_episode": 2632,
+            "arc_title": "Gada Electronics on sale",
+            "arc_description": "Nattu Kaka and Bagha sell Gada Electronics to Soorma Bhai without Jethalal's consent."
+        },
+        {
+            "start_episode": 2644,
+            "end_episode": 2649,
+            "arc_title": "Statue of Unity trip",
+            "arc_description": "The residents of Gokuldham visit the world's tallest statue, the Statue of Unity in Narmada, Gujarat."
+        },
+        {
+            "start_episode": 2693,
+            "end_episode": 2708,
+            "arc_title": "Singapore trip",
+            "arc_description": "Asit Kumarr Modi arranges a Singapore trip for Gokuldham members to make depressed Popatlal happy."
+        },
+        {
+            "start_episode": 2812,
+            "end_episode": 2824,
+            "arc_title": "Ganesh Utsav (2019)",
+            "arc_description": "The members of Gokuldham society celebrate Ganesh Utsav."
+        },
+        {
+            "start_episode": 2982,
+            "end_episode": 2996,
+            "arc_title": "Ganesh Utsav (2020)",
+            "arc_description": "The members of the society celebrate Ganesh Utsav during the COVID-19 pandemic following all safety measures."
+        },
+        {
+            "start_episode": 3004,
+            "end_episode": 3008,
+            "arc_title": "Abdul has corona?",
+            "arc_description": "The residents of Gokuldham society suspect that Abdul has corona, so they take tests to see if anyone has the virus. In the end no one has the virus."
+        },
+        {
+            "start_episode": 3009,
+            "end_episode": 3009,
+            "arc_title": "Romantic song",
+            "arc_description": "Taarak is annoyed with his lockdown life and wants to escape it. Later, Goli boasts about him changing from Goli to Gulabkumar. Anjali surprises Taarak with pakora and masala tea, so he becomes happy and sings a romantic song."
+        },
+        {
+            "start_episode": 3010,
+            "end_episode": 3010,
+            "arc_title": "Musical memory of S. P. Balasubrahmanyam",
+            "arc_description": "The Gokuldham residents sing songs in the remembrance of Indian playback singer S.P. Balasubrahmanyam."
+        },
+        {
+            "start_episode": 3014,
+            "end_episode": 3017,
+            "arc_title": "Life in lockdown",
+            "arc_description": "Chamapaklal calls the Gokuldham residents to know how their lives are going during the lockdown."
+        },
+        {
+            "start_episode": 3020,
+            "end_episode": 3026,
+            "arc_title": "Navratri 2020",
+            "arc_description": "Gokuldham society celebrates Navratri whilst following all the safety measures of COVID-19."
+        },
+        {
+            "start_episode": 3029,
+            "end_episode": 3030,
+            "arc_title": "Online meeting",
+            "arc_description": "The Gokuldham residents gather in an online meeting to see how things are going for them in lockdown and how they are doing."
+        },
+        {
+            "start_episode": 3032,
+            "end_episode": 3033,
+            "arc_title": "Jethalal fights corona",
+            "arc_description": "In a dream, Jethalal is approached by corona who is ready to attack him but Jethalal retaliates and fights back. However, in reality he is attacking Champaklal, which leads to Champaklal running out of the house to escape Jethalal but he still follows him in sleep. Champaklal hits him so Jethalal comes back to his senses."
+        },
+        {
+            "start_episode": 3035,
+            "end_episode": 3050,
+            "arc_title": "Popatlal loses job",
+            "arc_description": "Due to coronavirus pandemic and lockdown, Popatlal's newspaper agency Toofan Express shuts down and he becomes unemployed. He tries for different jobs but fails each time. In the end Popatlal eventually gets his job back."
+        },
+        {
+            "start_episode": 3051,
+            "end_episode": 3062,
+            "arc_title": "Tapu Sena's Pizza Party",
+            "arc_description": "Bhide advises Tapu Sena to not eat food from outside. However, Tapu Sena plans to order pizza from a restaurant without anyone knowing. They buy the food with the help of Abdul and eat it at Taarak Mehta's house. Anjali is surprised to find the pizza boxes at home and accuses Mehta of eating without her knowledge, but Dr. Hathi finds the truth."
+        },
+        {
+            "start_episode": 3063,
+            "end_episode": 3071,
+            "arc_title": "New Year Party 2021",
+            "arc_description": "Tapu Sena want to have a new year party, but Bhide refuses. Then after a meeting, it is decided the party will happen, but Champaklal will do the arrangement without help."
+        },
+        {
+            "start_episode": 3074,
+            "end_episode": 3083,
+            "arc_title": "Popatlal's shaadi",
+            "arc_description": "Bhide sees a woman in Popatlal's balcony and assumes her to be Popatlal's wife. The news spreads but Jethalal thinks that Bhide remarried due to misunderstanding created by conversation gap. Taarak and Jethalal set out to punish Bhide, but they eventually learn about Bhide being innocent. The woman on the balcony turns out to be Iyer's cousin's wife."
+        },
+        {
+            "start_episode": 3140,
+            "end_episode": 3147,
+            "arc_title": "Popatlal And Pooja",
+            "arc_description": "Popatlal gets a call from his fan who is also a journalist, Pooja, and he falls in love with her. Pooja arrives at the society, and says she has made Popatlal her guruji (teacher). Popatlal is heartbroken."
+        },
+        {
+            "start_episode": 3158,
+            "end_episode": 3193,
+            "arc_title": "Popatlal on Mission Kala Kauva",
+            "arc_description": "Popatlal and his co-worker Bharti expose a gang that black-marketed Covid drugs, oxygen cylinders, and COVID-19 vaccines during the second wave. They reach Rang Tarang resort and are assisted by Dr. Hathi, Jethalal, Bagha, and Champaklal."
+        },
+        {
+            "start_episode": 3194,
+            "end_episode": 3221,
+            "arc_title": "Gokuldham in Rang Tarang Resort",
+            "arc_description": "After the events of mission Kala Kauva, the Gokuldham residents are invited to Rang Tarang Resort."
+        },
+        {
+            "start_episode": 3268,
+            "end_episode": 3277,
+            "arc_title": "Bhide's cheque",
+            "arc_description": "Tapu Sena is given the task to deposit Bhide's cheque but because of Goli eating Pani Puri, the cheque is lost. Tapu Sena lie consistently, unaware that everyone knows the truth."
+        },
+        {
+            "start_episode": 3316,
+            "end_episode": 3322,
+            "arc_title": "Madhavi's burnt saree",
+            "arc_description": "Bhide accidentally burns Madhavi's favorite saree gifted by her brother whilst ironing and goes on a mission to buy a new one."
+        },
+        {
+            "start_episode": 3323,
+            "end_episode": 3326,
+            "arc_title": "Gokuldham in Kaun Banega Crorepati",
+            "arc_description": "Asit Kumar surprises everyone with an invitation to KBC-13 by Amitabh Bachchan."
+        },
+        {
+            "start_episode": 3327,
+            "end_episode": 3332,
+            "arc_title": "Marriage Proposals for Popatlal",
+            "arc_description": "After getting Amitabh Bachchan's special mention for Popatlal's marriage on KBC-13, two different families come to Gokuldham for marriage-meeting simultaneously in Hathi and Bhide's house. As a plan, Popatlal tries hard to meet both the families sitting in Bhide & Hathi's homes simultaneously. But later they get to know, no one came to the society for a marriage meeting."
+        },
+        {
+            "start_episode": 3334,
+            "end_episode": 3337,
+            "arc_title": "Popatlal Sherwani Curse",
+            "arc_description": "Popatlal thinks his Sherwani is stopping him from getting married, so he gets rid of it, but it always comes back to him. Eventually, he throws it out from his balcony, and it lands on Bhide while driving which causes chaos in the society."
+        },
+        {
+            "start_episode": 3338,
+            "end_episode": 3360,
+            "arc_title": "Karela Bhoot in Taarak",
+            "arc_description": "In the greed of food Goli spies on Taarak and reports to Anjali. She finds out Taarak eats at a hotel secretly, Because of this she uses the Khiladi diet, but Taarak and Tapu Sena come up with a plan of Karela Bhoot to escape it. Anjali gets to know the truth and decides to teach Taarak a lesson with the help of Champaklal's and Mahila Mandal's plan."
+        },
+        {
+            "start_episode": 3361,
+            "end_episode": 3368,
+            "arc_title": "Network problem",
+            "arc_description": "Jethalal gets a big order and had a meeting the next day but forgets his keys when he arrives at his shop. He calls Champaklal to get the keys ready but because of the network problem they misunderstand each other and do the opposite of what the other person said. Bhide helps Champaklal but gets caught by the police numerous times because of Champaklal disturbing him. Champaklal gets lost but successfully gets Jethalal the deal."
+        },
+        {
+            "start_episode": 3368,
+            "end_episode": 3368,
+            "arc_title": "Tapu and Sonu as Couple",
+            "arc_description": "Bhide ponders the question of Sonu's future. He doesn't want Sonu to marry Tapu but Madhavi explains to him that Tapu Sena is always together."
+        },
+        {
+            "start_episode": 3369,
+            "end_episode": 3373,
+            "arc_title": "The Second Deal",
+            "arc_description": "Because of the events of the network problem Jethalal forgot he had another deal. In the end he gets his deal."
+        },
+        {
+            "start_episode": 3373,
+            "end_episode": 3384,
+            "arc_title": "Party Sharty",
+            "arc_description": "After the events of the second deal, Jethalal decides to give a party to the Purush Mandal, so gets permission from the Mahila Mandal and they start. But a rat goes on Jethalal's leg, and he drops the bottle and it smashes. Then they go to Jhoom Jhoom restaurant to party, but the police spill their liquor."
+        },
+        {
+            "start_episode": 3385,
+            "end_episode": 3387,
+            "arc_title": "Popatlal vs Bhide",
+            "arc_description": "Popatlal throws water on Bhide and therefore Bhide is angry and doesn't want to talk to him anymore. Popatlal needs to update his bank account so he politely asks Bhide to drop him off at the bank. Bhide refuses so Popatlal insults him. Madhavi explains to Bhide that they are friends so they finally make peace with each other."
+        },
+        {
+            "start_episode": 3388,
+            "end_episode": 3410,
+            "arc_title": "Cat in Golkuhdham",
+            "arc_description": "Goli and Gogi get a cat into the Society, making Tapu Sena extremely happy and the gang decide to name the cat Pompom and raise it secretly in clubhouse with Abdul's help. But it creates problems for the society members, especially for Jethalal, Popatlal and Bhide as Popatlal's expected bride's father breaks the relation twice due to his superstitions related to cats and Champaklal having sneeze allergy from cats. However, Tapu Sena promise amongst themselves not to get separated from Pompom. But as the problems increase amongst society members they decide to reveal their secret of raising Pompom in the society clubhouse."
+        },
+        {
+            "start_episode": 3411,
+            "end_episode": 3432,
+            "arc_title": "Champaklal's party sharty",
+            "arc_description": "After the events following the Pompom incident, Tapu Sena decides to go for a short trip to Lonavala for a friend's birthday while Roshan goes out of town for a cousin's marriage thus making an opportunity for Sodhi to do party with his friends. However Champaklal's old friend Hemraj convinces him to do a party with him and some other friends of their young days. Coincidentally, Champaklal arrives at the same bar in which Sodhi was partying with his friends making him think that Champaklal was doing an alcohol party, for which Gokuldham men always faced backlash from their wives and Champaklal. Sodhi tries to convince everyone that Champaklal partied but faced backlash specially from Jethalal. Next day Champaklal faces some acidity due to hangover making Sodhi more determined that he did a party. However Jethalal had to leave for Pune for an urgent meeting. Hemraj again convinces Champaklal for the party and the conversation gets overheard by Sodhi. He catches Champaklal red handed with Popatlal and shows proof to Gokuldham men except Jethalal which came as a shocker for everyone and they get tensed regarding how Jethalal will handle this situation after learning the truth. Eventually, they tell him the truth but due to his failed attempt to ask Champaklal about the same Sodhi asks this in an inebriated state. However, after Jethalal comes back to his senses it is revealed that Hemraj works for rehabilitation of alcohol and drug addicted people and he along with Champaklal and another friend Suresh helps those people to quit alcohol and drugs by acting as addicted people who are facing aftermaths and health complications for this addiction."
+        },
+        {
+            "start_episode": 3433,
+            "end_episode": 3441,
+            "arc_title": "Bhide's Sargam Orchestra",
+            "arc_description": "Jethalal tells everyone how he thought his shop's junk dealers as thieves due to change in their looks post Covid eventually irritating Inspector Chalu Pandey again. However Madhavi gets irritated by Bhide constantly postponing his plan to check junk at his home. Next day when the junk dealer arrives Madhavi along with other women of society sell off all their junk to him. However Bhide picks out his old Sargam Orchestra (an audio tape gifted to him by his Azoba/Grandfather) and asks Jethalal to get it repaired by Bagha as he wants to listen his collection of old cassette songs again in that tape. Later Bhide organises a musical night for the society. However the tape doesn't work so Bagha repairs it again. Then it converts into a musical tribute to legendary singers like Lata Mangeshkar, Kishore Kumar, Mohammed Rafi, Mukesh, Bappi Lahiri etc. with their evergreen songs like Ajeeb Dastan Hai Ye, Awaara Hun, O Hasina Zulfon Wali, Yaar Bina Chain Kahan Re etc. The musical night ends with iconic Aye Mere Watan Ke Logo by Lata Mangeshkar and everyone enjoying an ice-cream party."
+        },
+        {
+            "start_episode": 3442,
+            "end_episode": 3450,
+            "arc_title": "Lemon Price Hikes of 2022",
+            "arc_description": "Amid the current lemon price hikes of 2022, everyone gets tensed regarding the same. However, Bhide receives his first and huge order of 50kg lemon pickles from Rang Tarang Resort, making him tensed how he will arrange money for the same due to price hikes as many of his old customers changed their address and contact post Covid with whom he can collect his pending payment to buy lemons. But someone sends him 4 bags of lemons. Initially reluctant Bhide decides to sell them off after picking out required quantity of lemons to complete his pickles order. At first Bagha bought them to surprise Jetha but returns after he refuses to accept them. Then Bhide gets a call from Guddu Khatila that he will buy them. Inspector Chalu Pandey catches him, and it is revealed that the lemons were sent by one of Bhide's pending payment customer Shetty Anna and Guddu Khatila is a black-marketing agent of lemons. It is also revealed that the man caught was Guddu Khatila's henchman and real Guddu Khatila troubles Bhide, Sodhi and Abdul with his goons. However, they succeed in catching everyone with other people's help. Constable Patil helps Bhide to sell off the lemons by giving the contact number of his vegetable vendor uncle."
+        },
+        {
+            "start_episode": 3451,
+            "end_episode": 3454,
+            "arc_title": "Confusion",
+            "arc_description": "Bhide comes back home after writing Suvichaar on society's noticeboard and finds his stamp missing. He accuses Madhavi of being careless with his things but she defends herself by saying that she didn't saw it. But Bhide gets adamant and later Stamp falls from his pocket while picking phone upsetting Madhavi. He convinces her to go for a shopping and society's every couple goes for the same. Abdul receives a letter from Municipality and calls Jetha and Bagha. The trio thinks that Municipality is going to cut their waterline. But Bhide clears that it's just a notice related to contaminated water which can come due to pipeline repair."
+        }
+    ]
+}
