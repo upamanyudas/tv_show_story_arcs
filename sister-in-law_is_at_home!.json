@@ -1,0 +1,16 @@
+{
+    "show": "Taarak Mehta Ka Ooltah Chashmah",
+    "arcs":
+    [
+        {
+            "start_episode": 56,
+            "end_episode": 58,
+            "arc_title": "Langda Aam (mango) chaos"
+        },
+        {
+            "start_episode": 58,
+            "end_episode": 60,
+            "arc_title": "Tiwari Anger Control"
+        }
+    ]
+}
