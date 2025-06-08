@@ -2174,8 +2174,873 @@
         },
         {
           "start_episode": 1483,
-          "end_episode": 1483,
+          "end_episode": 1487,
           "arc_title": "anita bhabhbi ayegi (Neha Pendse)"
+        },
+        {
+          "start_episode": 1488,
+          "end_episode": 1492,
+          "arc_title": "Anita Mishra Vs Vibhuti Mishra"
+        },
+        {
+          "start_episode": 1493,
+          "end_episode": 1497,
+          "arc_title": "Vibhuti Chowkidar"
+        },
+        {
+          "start_episode": 1498,
+          "end_episode": 1502,
+          "arc_title": "Rangsaaj"
+        },
+        {
+          "start_episode": 1503,
+          "end_episode": 1507,
+          "arc_title": "Vibhuti Guide"
+        },
+        {
+          "start_episode": 1508,
+          "end_episode": 1512,
+          "arc_title": "Dosti"
+        },
+        {
+          "start_episode": 1513,
+          "end_episode": 1518,
+          "arc_title": "Bharwa Baingan"
+        },
+        {
+          "start_episode": 1519,
+          "end_episode": 1523,
+          "arc_title": "Pyaar Kabhi Jhukega Nahi"
+        },
+        {
+          "start_episode": 1524,
+          "end_episode": 1527,
+          "arc_title": "Chor Chor"
+        },
+        {
+          "start_episode": 1528,
+          "end_episode": 1533,
+          "arc_title": "Gareebo Ka Maseeha"
+        },
+        {
+          "start_episode": 1534,
+          "end_episode": 1538,
+          "arc_title": "Goa Se Aaye Daddy"
+        },
+        {
+          "start_episode": 1539,
+          "end_episode": 1543,
+          "arc_title": "Jwalamukhi Pe Dhakkan"
+        },
+        {
+          "start_episode": 1544,
+          "end_episode": 1549,
+          "arc_title": "Bhabhi Patao Raag"
+        },
+        {
+          "start_episode": 1550,
+          "end_episode": 1553,
+          "arc_title": "Tiwari Ki Meenu Ya Meenu Ka 'Tiwari"
+        },
+        {
+          "start_episode": 1554,
+          "end_episode": 1558,
+          "arc_title": "Bandook Milegi Ya Ghanti Theek Hogi?"
+        },
+        {
+          "start_episode": 1559,
+          "end_episode": 1562,
+          "arc_title": "Saxena Ka Birthday Ya Sabka Jhagde Ka Din?"
+        },
+        {
+          "start_episode": 1563,
+          "end_episode": 1568,
+          "arc_title": "IDK"
+        },
+        {
+          "start_episode": 1569,
+          "end_episode": 1573,
+          "arc_title": "Juaa Buri Bala"
+        },
+        {
+          "start_episode": 1574,
+          "end_episode": 1578,
+          "arc_title": "Tiwari Ka Emotional Atyachar"
+        },
+        {
+          "start_episode": 1579,
+          "end_episode": 1587,
+          "arc_title": "Bhabhi Ji Ki God Mein Hai Sona"
+        },
+        {
+          "start_episode": 1588,
+          "end_episode": 1593,
+          "arc_title": "Chhatri Udh Gayi"
+        },
+        {
+          "start_episode": 1594,
+          "end_episode": 1598,
+          "arc_title": "Chhavi Jholkar"
+        },
+        {
+          "start_episode": 1599,
+          "end_episode": 1603,
+          "arc_title": "Tiwari Bana Pilot"
+        },
+        {
+          "start_episode": 1604,
+          "end_episode": 1608,
+          "arc_title": "Vibhuti Nervous Breakdown"
+        },
+        {
+          "start_episode": 1609,
+          "end_episode": 1613,
+          "arc_title": "Mastana Mausam"
+        },
+        {
+          "start_episode": 1614,
+          "end_episode": 1618,
+          "arc_title": "Samosa"
+        },
+        {
+          "start_episode": 1619,
+          "end_episode": 1623,
+          "arc_title": "Romance Ka Satyanash"
+        },
+        {
+          "start_episode": 1624,
+          "end_episode": 1628,
+          "arc_title": "Pehehlwani Hukumat"
+        },
+        {
+          "start_episode": 1629,
+          "end_episode": 1633,
+          "arc_title": "'Tiwari Babu In Shock"
+        },
+        {
+          "start_episode": 1634,
+          "end_episode": 1638,
+          "arc_title": "Vibhuti Ka Impossible Mission"
+        },
+        {
+          "start_episode": 1639,
+          "end_episode": 1643,
+          "arc_title": "Extra Martial Affair"
+        },
+        {
+          "start_episode": 1644,
+          "end_episode": 1648,
+          "arc_title": "Sahi Pakde Hain Cyber Cafe"
+        },
+        {
+          "start_episode": 1649,
+          "end_episode": 1658,
+          "arc_title": "TMT Ki Lag Gayi Naukri 165314 Dusshera"
+        },
+        {
+          "start_episode": 1659,
+          "end_episode": 1663,
+          "arc_title": "Dus Saal Ki Baasi Shadi"
+        },
+        {
+          "start_episode": 1664,
+          "end_episode": 1668,
+          "arc_title": "Angoori Vs Tiwari"
+        },
+        {
+          "start_episode": 1669,
+          "end_episode": 1673,
+          "arc_title": "Diwali 2021"
+        },
+        {
+          "start_episode": 1674,
+          "end_episode": 1678,
+          "arc_title": "Vasooli Agent Vibhuti"
+        },
+        {
+          "start_episode": 1679,
+          "end_episode": 1683,
+          "arc_title": "Beladona"
+        },
+        {
+          "start_episode": 1684,
+          "end_episode": 1688,
+          "arc_title": "Bhabhi Ji Ghar Par Aayi Hai"
+        },
+        {
+          "start_episode": 1689,
+          "end_episode": 1693,
+          "arc_title": ""
+        },
+        {
+          "start_episode": 1694,
+          "end_episode": 1702,
+          "arc_title": "Tillu Ka Raees Pita"
+        },
+        {
+          "start_episode": 1703,
+          "end_episode": 1703,
+          "arc_title": "Tika Se Pyaar"
+        },
+        {
+          "start_episode": 1704,
+          "end_episode": 1707,
+          "arc_title": "Vibhuti Ki Aankh Fadki"
+        },
+        {
+          "start_episode": 1708,
+          "end_episode": 1712,
+          "arc_title": "Christmas"
+        },
+        {
+          "start_episode": 1713,
+          "end_episode": 1717,
+          "arc_title": "Happy New Year"
+        },
+        {
+          "start_episode": 1718,
+          "end_episode": 1724,
+          "arc_title": "IDK"
+        },
+        {
+          "start_episode": 1725,
+          "end_episode": 1729,
+          "arc_title": "Vibhuti Hamara Jewel Thief"
+        },
+        {
+          "start_episode": 1730,
+          "end_episode": 1734,
+          "arc_title": "Angoori Ke Krantikari Dadaji"
+        },
+        {
+          "start_episode": 1735,
+          "end_episode": 1739,
+          "arc_title": "Daani Tiwari"
+        },
+        {
+          "start_episode": 1740,
+          "end_episode": 1744,
+          "arc_title": "Modern Angoori"
+        },
+        {
+          "start_episode": 1745,
+          "end_episode": 1749,
+          "arc_title": "Tiwari Bana Dardnaak Shayar"
+        },
+        {
+          "start_episode": 1750,
+          "end_episode": 1754,
+          "arc_title": "Ganda Kanoon"
+        },
+        {
+          "start_episode": 1755,
+          "end_episode": 1759,
+          "arc_title": "Neelam Angoothi"
+        },
+        {
+          "start_episode": 1760,
+          "end_episode": 1764,
+          "arc_title": "Chalu Chikni Chachi Ki Chatpati Khabrein"
+        },
+        {
+          "start_episode": 1765,
+          "end_episode": 1769,
+          "arc_title": "Chustare Lal Saxena"
+        },
+        {
+          "start_episode": 1770,
+          "end_episode": 1774,
+          "arc_title": "Holi"
+        },
+        {
+          "start_episode": 1775,
+          "end_episode": 1779,
+          "arc_title": "Saksharta Abhiyaan Chalaye Angoori Bhabhi"
+        },
+        {
+          "start_episode": 1780,
+          "end_episode": 1784,
+          "arc_title": "Auratein Bewakoof Nahin Hoti"
+        },
+        {
+          "start_episode": 1785,
+          "end_episode": 1788,
+          "arc_title": "Khajoori Chachi Ka Pyar"
+        },
+        {
+          "start_episode": 1789,
+          "end_episode": 1799,
+          "arc_title": "Angoori Ke Jhumke 795 Taarifon Ke Phool"
+        },
+        {
+          "start_episode": 1800,
+          "end_episode": 1804,
+          "arc_title": "Phata Bam Nikla Chuha"
+        },
+        {
+          "start_episode": 1805,
+          "end_episode": 1809,
+          "arc_title": "Contract Killer Goli Mishra"
+        },
+        {
+          "start_episode": 1810,
+          "end_episode": 1814,
+          "arc_title": "Dil Ke Kareeb Kaun Biwi Ya Dost?"
+        },
+        {
+          "start_episode": 1815,
+          "end_episode": 1819,
+          "arc_title": "TMT Chale America"
+        },
+        {
+          "start_episode": 1820,
+          "end_episode": 1824,
+          "arc_title": "Vibhu Tabalchi Tiwari Gaveyya"
+        },
+        {
+          "start_episode": 1825,
+          "end_episode": 1829,
+          "arc_title": "Angoori Badnaam"
+        },
+        {
+          "start_episode": 1830,
+          "end_episode": 1834,
+          "arc_title": "IDK"
+        },
+        {
+          "start_episode": 1835,
+          "end_episode": 1839,
+          "arc_title": "IDK"
+        },
+        {
+          "start_episode": 1840,
+          "end_episode": 1844,
+          "arc_title": "Manhoos Kanpuri Bhootiya Shayar"
+        },
+        {
+          "start_episode": 1845,
+          "end_episode": 1849,
+          "arc_title": "Happu Ki Lag Gayi Lottery"
+        },
+        {
+          "start_episode": 1850,
+          "end_episode": 1854,
+          "arc_title": "Sher Aaya Bhago Bhago"
+        },
+        {
+          "start_episode": 1855,
+          "end_episode": 1859,
+          "arc_title": "Amma Chali Gutter Mein"
+        },
+        {
+          "start_episode": 1860,
+          "end_episode": 1864,
+          "arc_title": "Faasi Ka Fanda"
+        },
+        {
+          "start_episode": 1865,
+          "end_episode": 1869,
+          "arc_title": "Hakeem Surcian Lahori"
+        },
+        {
+          "start_episode": 1870,
+          "end_episode": 1874,
+          "arc_title": "Quit Game"
+        },
+        {
+          "start_episode": 1875,
+          "end_episode": 1879,
+          "arc_title": "Chumban Kumari"
+        },
+        {
+          "start_episode": 1880,
+          "end_episode": 1884,
+          "arc_title": "Jungle Mein Dangal"
+        },
+        {
+          "start_episode": 1885,
+          "end_episode": 1889,
+          "arc_title": "Anita Angoori Vibhu Ko Banana Cha he Maa"
+        },
+        {
+          "start_episode": 1890,
+          "end_episode": 1894,
+          "arc_title": "Good Luck Tiwari"
+        },
+        {
+          "start_episode": 1895,
+          "end_episode": 1899,
+          "arc_title": "Tiwari Bana Producer"
+        },
+        {
+          "start_episode": 1900,
+          "end_episode": 1904,
+          "arc_title": "Karamchand"
+        },
+        {
+          "start_episode": 1905,
+          "end_episode": 1909,
+          "arc_title": "Karzbazari"
+        },
+        {
+          "start_episode": 1910,
+          "end_episode": 1914,
+          "arc_title": "Dandiya"
+        },
+        {
+          "start_episode": 1915,
+          "end_episode": 1919,
+          "arc_title": "Jungle Mein Gorilla Aur Chidiyaghar Mein Vibhuti"
+        },
+        {
+          "start_episode": 1920,
+          "end_episode": 1924,
+          "arc_title": "Madan Mohan Tiwari"
+        },
+        {
+          "start_episode": 1925,
+          "end_episode": 1929,
+          "arc_title": "Diwali"
+        },
+        {
+          "start_episode": 1930,
+          "end_episode": 1934,
+          "arc_title": "Ustad Angoori"
+        },
+        {
+          "start_episode": 1935,
+          "end_episode": 1939,
+          "arc_title": "Aa Gaya Chitthiwala"
+        },
+        {
+          "start_episode": 1940,
+          "end_episode": 1944,
+          "arc_title": "Bahuye Kare Seva Chacha Khaye Meva"
+        },
+        {
+          "start_episode": 1945,
+          "end_episode": 1949,
+          "arc_title": "Mishra Chaat Bhandar"
+        },
+        {
+          "start_episode": 1950,
+          "end_episode": 1954,
+          "arc_title": "Angoori Ka Ata Aur Vibhuti Ka Aa"
+        },
+        {
+          "start_episode": 1955,
+          "end_episode": 1959,
+          "arc_title": "Bhikhari"
+        },
+        {
+          "start_episode": 1960,
+          "end_episode": 1964,
+          "arc_title": "Vibhuti Robert 4.0"
+        },
+        {
+          "start_episode": 1965,
+          "end_episode": 1969,
+          "arc_title": "Angoori Tiwari Ka Totka Padhega Anita Ko Mehenga"
+        },
+        {
+          "start_episode": 1970,
+          "end_episode": 1974,
+          "arc_title": "Christmas With Helda"
+        },
+        {
+          "start_episode": 1975,
+          "end_episode": 1979,
+          "arc_title": "Happy New Year Rocky"
+        },
+        {
+          "start_episode": 1980,
+          "end_episode": 1984,
+          "arc_title": "Vibhuti Bana Sarkari Officer"
+        },
+        {
+          "start_episode": 1985,
+          "end_episode": 1989,
+          "arc_title": "Gilli Danda"
+        },
+        {
+          "start_episode": 1990,
+          "end_episode": 1994,
+          "arc_title": "Angoori Tawayaf"
+        },
+        {
+          "start_episode": 1995,
+          "end_episode": 1999,
+          "arc_title": "Ek Taraf Hai Khudai To Dusri Taraf Bhabhiji"
+        },
+        {
+          "start_episode": 2000,
+          "end_episode": 2004,
+          "arc_title": "Peeping Tom"
+        },
+        {
+          "start_episode": 2005,
+          "end_episode": 2009,
+          "arc_title": "Valentine's Day Special"
+        },
+        {
+          "start_episode": 2010,
+          "end_episode": 2014,
+          "arc_title": "Vibhuti Ke Bazaru Rishtedar"
+        },
+        {
+          "start_episode": 2015,
+          "end_episode": 2019,
+          "arc_title": "Neeras Angoori Vibhuti"
+        },
+        {
+          "start_episode": 2020,
+          "end_episode": 2024,
+          "arc_title": "Badtameez Dadaji"
+        },
+        {
+          "start_episode": 2025,
+          "end_episode": 2029,
+          "arc_title": "Basanti Ke Golgappe"
+        },
+        {
+          "start_episode": 2030,
+          "end_episode": 2034,
+          "arc_title": "Vibhuti Ke Ghar Nikla Tel"
+        },
+        {
+          "start_episode": 2035,
+          "end_episode": 2039,
+          "arc_title": "Vibhuti Blogger"
+        },
+        {
+          "start_episode": 2040,
+          "end_episode": 2044,
+          "arc_title": "Bhabhiji Bani Machhuaran"
+        },
+        {
+          "start_episode": 2045,
+          "end_episode": 2049,
+          "arc_title": "Tiwari Ki Parchoon Ki Dukan"
+        },
+        {
+          "start_episode": 2050,
+          "end_episode": 2054,
+          "arc_title": "Cricket Ka Bukhar"
+        },
+        {
+          "start_episode": 2055,
+          "end_episode": 2959,
+          "arc_title": "Muft Ki Bijli"
+        },
+        {
+          "start_episode": 2960,
+          "end_episode": 2064,
+          "arc_title": "Tiwari Babubali"
+        },
+        {
+          "start_episode": 2065,
+          "end_episode": 2069,
+          "arc_title": "Nafrateshwar Baba Ki Kripa"
+        },
+        {
+          "start_episode": 2070,
+          "end_episode": 2074,
+          "arc_title": "Kiska Pati Best Hai"
+        },
+        {
+          "start_episode": 2075,
+          "end_episode": 2079,
+          "arc_title": "Ache Padosi Bure Padosi"
+        },
+        {
+          "start_episode": 2080,
+          "end_episode": 2084,
+          "arc_title": "Balmukund Jhadheshwar"
+        },
+        {
+          "start_episode": 2085,
+          "end_episode": 2089,
+          "arc_title": "Kheenchlo Photo Studio"
+        },
+        {
+          "start_episode": 2090,
+          "end_episode": 2094,
+          "arc_title": "Anytime Cafe"
+        },
+        {
+          "start_episode": 2095,
+          "end_episode": 2099,
+          "arc_title": "Chacha Ji Ki Yaddasht"
+        },
+        {
+          "start_episode": 2100,
+          "end_episode": 2104,
+          "arc_title": "Chali Angoori Vibhuti Ke Ghar Pe"
+        },
+        {
+          "start_episode": 2105,
+          "end_episode": 2109,
+          "arc_title": "Ghost Hunter"
+        },
+        {
+          "start_episode": 2110,
+          "end_episode": 2114,
+          "arc_title": "Patniyon Ka Zulm"
+        },
+        {
+          "start_episode": 2115,
+          "end_episode": 2119,
+          "arc_title": "Naughty Girls"
+        },
+        {
+          "start_episode": 2120,
+          "end_episode": 2124,
+          "arc_title": "Angoori Chameli Jaan"
+        },
+        {
+          "start_episode": 2125,
+          "end_episode": 2129,
+          "arc_title": "Vibhuti Ne Laangh Di Maryada"
+        },
+        {
+          "start_episode": 2130,
+          "end_episode": 2139,
+          "arc_title": "Bargood Ratnani Ki Shadi 213515 August"
+        },
+        {
+          "start_episode": 2140,
+          "end_episode": 2144,
+          "arc_title": "Share Bazaar Ka Badshah Vibhuti"
+        },
+        {
+          "start_episode": 2145,
+          "end_episode": 2149,
+          "arc_title": "Ghulam"
+        },
+        {
+          "start_episode": 2150,
+          "end_episode": 2154,
+          "arc_title": "Padhosi Mulk Se Reshma"
+        },
+        {
+          "start_episode": 2155,
+          "end_episode": 2159,
+          "arc_title": "Vibhuti Kavvaal"
+        },
+        {
+          "start_episode": 2160,
+          "end_episode": 2164,
+          "arc_title": "Special Collector"
+        },
+        {
+          "start_episode": 2165,
+          "end_episode": 2169,
+          "arc_title": "Kalam Ki Kataar"
+        },
+        {
+          "start_episode": 2170,
+          "end_episode": 2174,
+          "arc_title": "Raees Bhikhari"
+        },
+        {
+          "start_episode": 2175,
+          "end_episode": 2179,
+          "arc_title": "Ek Laash Hai Ghar Mein"
+        },
+        {
+          "start_episode": 2180,
+          "end_episode": 2184,
+          "arc_title": "Navratri Special"
+        },
+        {
+          "start_episode": 2185,
+          "end_episode": 2189,
+          "arc_title": "Jaadui Gufa"
+        },
+        {
+          "start_episode": 2190,
+          "end_episode": 2194,
+          "arc_title": "Kanpuriya Taara"
+        },
+        {
+          "start_episode": 2195,
+          "end_episode": 2199,
+          "arc_title": "Pandit Aaramphal"
+        },
+        {
+          "start_episode": 2200,
+          "end_episode": 2204,
+          "arc_title": "Traffic Cop Vibhuti"
+        },
+        {
+          "start_episode": 2205,
+          "end_episode": 2209,
+          "arc_title": "Michael Ki Cycle"
+        },
+        {
+          "start_episode": 2210,
+          "end_episode": 2214,
+          "arc_title": "Bhandari Bol Rahein Hain"
+        },
+        {
+          "start_episode": 2215,
+          "end_episode": 2219,
+          "arc_title": "Mister Kanpur"
+        },
+        {
+          "start_episode": 2220,
+          "end_episode": 2224,
+          "arc_title": "Angoori Al"
+        },
+        {
+          "start_episode": 2225,
+          "end_episode": 2229,
+          "arc_title": "Jab Se Diya Udhar"
+        },
+        {
+          "start_episode": 2230,
+          "end_episode": 2234,
+          "arc_title": "Vibhuti Ki Izzat"
+        },
+        {
+          "start_episode": 2235,
+          "end_episode": 2239,
+          "arc_title": "New Year Resolution"
+        },
+        {
+          "start_episode": 2240,
+          "end_episode": 2244,
+          "arc_title": "Vibhuti Roti Chor"
+        },
+        {
+          "start_episode": 2245,
+          "end_episode": 2249,
+          "arc_title": "Tiwari Pehelwan"
+        },
+        {
+          "start_episode": 2250,
+          "end_episode": 2254,
+          "arc_title": "Oye Angoori Lucky Oye"
+        },
+        {
+          "start_episode": 2255,
+          "end_episode": 2259,
+          "arc_title": "Kiski Aukat Badi"
+        },
+        {
+          "start_episode": 2260,
+          "end_episode": 2264,
+          "arc_title": "Tiwari Vibhuti Ki Love Story"
+        },
+        {
+          "start_episode": 2265,
+          "end_episode": 2269,
+          "arc_title": "Valentine's Day Special"
+        },
+        {
+          "start_episode": 2270,
+          "end_episode": 2274,
+          "arc_title": "Saxena Winter Game Special"
+        },
+        {
+          "start_episode": 2275,
+          "end_episode": 2279,
+          "arc_title": "Paan Khaye Saiyan"
+        },
+        {
+          "start_episode": 2280,
+          "end_episode": 2284,
+          "arc_title": "Tiwari Vibhuti Ki Nachaas"
+        },
+        {
+          "start_episode": 2285,
+          "end_episode": 2289,
+          "arc_title": "Vibhuti Ki Jaan Tiwari Ke Tote Mein"
+        },
+        {
+          "start_episode": 2290,
+          "end_episode": 2294,
+          "arc_title": "Badtameez Holi"
+        },
+        {
+          "start_episode": 2295,
+          "end_episode": 2299,
+          "arc_title": "Chandani"
+        },
+        {
+          "start_episode": 2300,
+          "end_episode": 2304,
+          "arc_title": "Dost Dost Na Raha"
+        },
+        {
+          "start_episode": 2305,
+          "end_episode": 2309,
+          "arc_title": "Tiwari Bana Devgan"
+        },
+        {
+          "start_episode": 2310,
+          "end_episode": 2314,
+          "arc_title": "Chorni Anita Baga Mein Naache"
+        },
+        {
+          "start_episode": 2315,
+          "end_episode": 2319,
+          "arc_title": "Chala Vibhuti America"
+        },
+        {
+          "start_episode": 2320,
+          "end_episode": 2324,
+          "arc_title": "Dosti Imtihan Leti Hai"
+        },
+        {
+          "start_episode": 2325,
+          "end_episode": 2329,
+          "arc_title": "Baaton Baaton Mein"
+        },
+        {
+          "start_episode": 2330,
+          "end_episode": 2334,
+          "arc_title": "Tiwari Ka Sadma"
+        },
+        {
+          "start_episode": 2335,
+          "end_episode": 2339,
+          "arc_title": "Kalindi"
+        },
+        {
+          "start_episode": 2340,
+          "end_episode": 2044,
+          "arc_title": "Master Santiram"
+        },
+        {
+          "start_episode": 2045,
+          "end_episode": 2049,
+          "arc_title": "Garmi Ki Leher"
+        },
+        {
+          "start_episode": 2050,
+          "end_episode": 2354,
+          "arc_title": "Devar Ke Tevar"
+        },
+        {
+          "start_episode": 2355,
+          "end_episode": 2359,
+          "arc_title": "Gharelu Hinsa"
+        },
+        {
+          "start_episode": 2360,
+          "end_episode": 2364,
+          "arc_title": "Down To Earth By Birth"
+        },
+        {
+          "start_episode": 2365,
+          "end_episode": 2369,
+          "arc_title": "Baarish"
+        },
+        {
+          "start_episode": 2370,
+          "end_episode": 2400,
+          "arc_title": "Vibhuti Ki Dusri Shadi"
         }
       ]
 }
