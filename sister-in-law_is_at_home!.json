@@ -3044,8 +3044,58 @@
         },
         {
             "start_episode": 2375,
-            "end_episode": 2400,
+            "end_episode": 2379,
             "arc_title": "Adrishya Aadesh"
+        },
+        {
+            "start_episode": 2380,
+            "end_episode": 2384,
+            "arc_title": "Bhabiyo Ka Shouk"
+        },
+        {
+            "start_episode": 2385,
+            "end_episode": 2389,
+            "arc_title": "Amma Ki Humshakal"
+        },
+        {
+            "start_episode": 2390,
+            "end_episode": 2400,
+            "arc_title": "Kheeramandi"
+        },
+        {
+            "start_episode": 2390,
+            "end_episode": 2394,
+            "arc_title": "Kheeramandi"
+        },
+        {
+            "start_episode": 2395,
+            "end_episode": 2399,
+            "arc_title": "Anita and Vibhu Moving to London"
+        },
+        {
+            "start_episode": 2400,
+            "end_episode": 2404,
+            "arc_title": "Rinku Didi"
+        },
+        {
+            "start_episode": 2405,
+            "end_episode": 2409,
+            "arc_title": "Janmastami"
+        },
+        {
+            "start_episode": 2410,
+            "end_episode": 2414,
+            "arc_title": "Bulbul Bua"
+        },
+        {
+            "start_episode": 2415,
+            "end_episode": 2419,
+            "arc_title": "Khujli Gang in Kanpur"
+        },
+        {
+            "start_episode": 2420,
+            "end_episode": 2414,
+            "arc_title": "Thanda Garam"
         }
     ]
 }
