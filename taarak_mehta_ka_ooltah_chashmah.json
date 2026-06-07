@@ -969,16 +969,28 @@
             "arc_description": "On the occasion of Janmashtami, Lord Krishna himself arrives as child and breaks handi in Gokuldham and blesses everyone."
         },
         {
-            "start_episode": 1227,
-            "end_episode": 1234,
-            "arc_title": "Ganpati Utsav (2013)",
-            "arc_description": "On the occasion of Ganpati Utsav, Tapu Sena organised Kaun Banega Murga program."
-        },
-        {
             "start_episode": 1219,
             "end_episode": 1225,
             "arc_title": "Jethalal is stalked",
             "arc_description": "Jethalal is scared as a stranger is continuously stalking and taking his photos. Later, it is revealed that the stranger likes Jethalal's shirts and wanted clothes like him."
+        },
+        {
+            "start_episode": 1226,
+            "end_episode": 1235,
+            "arc_title": "Ganpati Utsav (2013)",
+            "arc_description": "On the occasion of Ganpati Utsav, Tapu Sena organised Kaun Banega Murga program."
+        },
+        {
+            "start_episode": 1236,
+            "end_episode": 1247,
+            "arc_title": "Haathi gets stuck under a tree",
+            "arc_description": "Following some misunderstandings of Popatlal at a restaurant, Haathi family goes out for a lunch and Haathi gets stuck under a tree. Gokuldham society members comes to rescue and fun ensues."
+        },
+        {
+            "start_episode": 1248,
+            "end_episode": 1250,
+            "arc_title": "Navratri (2013)",
+            "arc_description": "On the occasion of Navratri, Gokuldham society members dance on Garba."
         },
         {
             "start_episode": 1251,
