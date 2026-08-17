@@ -1138,9 +1138,21 @@
         },
         {
             "start_episode": 1500,
-            "end_episode": 1507,
+            "end_episode": 1506,
             "arc_title": "Bhide's surprise treat (1500 Episodes Celebration)",
             "arc_description": "Bhide arranges a surprise and takes everyone out for a day for Mumbai Darshan."
+        },
+        {
+            "start_episode": 1509,
+            "end_episode": 1512,
+            "arc_title": "Surprise for Bapuji",
+            "arc_description": "Jethalal arranges a surprise for Bapuji with the cycle riders for ambe mata darshan."
+        },
+        {
+            "start_episode": 1513,
+            "end_episode": 1517,
+            "arc_title": "Navratri (2014)",
+            "arc_description": "Society members celebrate Navratri."
         },
         {
             "start_episode": 1518,
