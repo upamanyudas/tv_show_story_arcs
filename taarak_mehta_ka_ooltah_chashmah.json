@@ -1264,6 +1264,18 @@
         },
         {
             "start_episode": 1758,
+            "end_episode": 1766,
+            "arc_title": "Interior renovation (Iyer vs. Popat)",
+            "arc_description": "The introduction to the interior renovation arc. The seed of the idea is planted in the society members to renovate their interiors."
+        },
+        {
+            "start_episode": 1767,
+            "end_episode": 1775,
+            "arc_title": "Ganpati Utsav (2015)",
+            "arc_description": "The society members celebrate Ganpati Utsav."
+        },
+        {
+            "start_episode": 1776,
             "end_episode": 1808,
             "arc_title": "Interior renovation",
             "arc_description": "Due to rising problems in their flats, the Gokuldham members decide to renovate their interiors and face many hurdles."
